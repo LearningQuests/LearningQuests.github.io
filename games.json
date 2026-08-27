@@ -1,0 +1,5002 @@
+[
+  {
+    "id": "progress-knight",
+    "thumbnail": "https://LearningQuests.github.io/images/300.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "juicy-match-2",
+    "thumbnail": "https://LearningQuests.github.io/images/301.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "fallling-jewels",
+    "thumbnail": "https://LearningQuests.github.io/images/302.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "labo-brick-train-game-for-kids",
+    "thumbnail": "https://LearningQuests.github.io/images/303.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "soccer-arena-x",
+    "thumbnail": "https://LearningQuests.github.io/images/304.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "the-roman-empire-colosseum",
+    "thumbnail": "https://LearningQuests.github.io/images/305.webp",
+    "genre": "Battle, Simulation"
+  },
+  {
+    "id": "russian-treasure-hunter",
+    "thumbnail": "https://LearningQuests.github.io/images/306.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "reflect-beam-laser-logic",
+    "thumbnail": "https://LearningQuests.github.io/images/307.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "noob-shooter-gun-battle-3d",
+    "thumbnail": "https://LearningQuests.github.io/images/308.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "sweet-business-of-cats-cakes",
+    "thumbnail": "https://LearningQuests.github.io/images/309.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "clicker-hero",
+    "thumbnail": "https://LearningQuests.github.io/images/310.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "draw-one-part-brain-puzzle",
+    "thumbnail": "https://LearningQuests.github.io/images/311.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "princess-rescue-fruit-connect",
+    "thumbnail": "https://LearningQuests.github.io/images/312.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "yarn-fever-unravel-puzzle",
+    "thumbnail": "https://LearningQuests.github.io/images/313.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "puzzle-blocks-classic",
+    "thumbnail": "https://LearningQuests.github.io/images/314.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "gt-drift-most-wanted",
+    "thumbnail": "https://LearningQuests.github.io/images/315.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "taptapboom",
+    "thumbnail": "https://LearningQuests.github.io/images/316.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "zombie-redemption",
+    "thumbnail": "https://LearningQuests.github.io/images/317.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "word-cross",
+    "thumbnail": "https://LearningQuests.github.io/images/318.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "solitaire-story-tripeaks-5",
+    "thumbnail": "https://LearningQuests.github.io/images/319.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "jelly-run-2048",
+    "thumbnail": "https://LearningQuests.github.io/images/320.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "train-master",
+    "thumbnail": "https://LearningQuests.github.io/images/321.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "drift-donut",
+    "thumbnail": "https://LearningQuests.github.io/images/322.webp",
+    "genre": "Racing & Driving, Agility"
+  },
+  {
+    "id": "forest-match-4",
+    "thumbnail": "https://LearningQuests.github.io/images/323.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "shop-sorting-2",
+    "thumbnail": "https://LearningQuests.github.io/images/324.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "screw-jam",
+    "thumbnail": "https://LearningQuests.github.io/images/325.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "basketball-fever",
+    "thumbnail": "https://LearningQuests.github.io/images/326.webp",
+    "genre": "Basketball, Casual"
+  },
+  {
+    "id": "key-quest",
+    "thumbnail": "https://LearningQuests.github.io/images/327.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "granny-gta-vegas",
+    "thumbnail": "https://LearningQuests.github.io/images/328.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "hide-and-build-a-bridge",
+    "thumbnail": "https://LearningQuests.github.io/images/329.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "cute-relaxing-matching-3-tiles",
+    "thumbnail": "https://LearningQuests.github.io/images/330.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "pictures-riddle",
+    "thumbnail": "https://LearningQuests.github.io/images/331.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "cuddle-monster-fusion",
+    "thumbnail": "https://LearningQuests.github.io/images/332.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "detective-logic-puzzles",
+    "thumbnail": "https://LearningQuests.github.io/images/333.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "idle-barber-shop",
+    "thumbnail": "https://LearningQuests.github.io/images/334.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "meteoheroes",
+    "thumbnail": "https://LearningQuests.github.io/images/335.webp",
+    "genre": "Adventure, Educational"
+  },
+  {
+    "id": "word-search-universe-easter",
+    "thumbnail": "https://LearningQuests.github.io/images/336.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "hill-racing-egg-drop",
+    "thumbnail": "https://LearningQuests.github.io/images/337.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "wordmeister-hd",
+    "thumbnail": "https://LearningQuests.github.io/images/338.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "childrens-doctor-treating-ears",
+    "thumbnail": "https://LearningQuests.github.io/images/339.webp",
+    "genre": "Care, Casual"
+  },
+  {
+    "id": "magic-sorting",
+    "thumbnail": "https://LearningQuests.github.io/images/340.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "bubble-shooter-spinner-pop",
+    "thumbnail": "https://LearningQuests.github.io/images/341.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "solitaire-summer-klondike",
+    "thumbnail": "https://LearningQuests.github.io/images/342.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "money-factory-earn-a-billion",
+    "thumbnail": "https://LearningQuests.github.io/images/343.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "block-craft-3d-school",
+    "thumbnail": "https://LearningQuests.github.io/images/344.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "hide-me",
+    "thumbnail": "https://LearningQuests.github.io/images/345.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "magic-finger",
+    "thumbnail": "https://LearningQuests.github.io/images/346.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "domino-smash-3d",
+    "thumbnail": "https://LearningQuests.github.io/images/347.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "tank-stars-battle-arena",
+    "thumbnail": "https://LearningQuests.github.io/images/348.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "art-master-origins",
+    "thumbnail": "https://LearningQuests.github.io/images/349.webp",
+    "genre": "Art"
+  },
+  {
+    "id": "crazy-bike-stunts-pvp",
+    "thumbnail": "https://LearningQuests.github.io/images/350.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "space-shooter-speed-typing-challenge",
+    "thumbnail": "https://LearningQuests.github.io/images/351.webp",
+    "genre": "Shooter, Educational"
+  },
+  {
+    "id": "obby-3d-sprunki-parkour",
+    "thumbnail": "https://LearningQuests.github.io/images/352.webp",
+    "genre": "Agility, Simulation"
+  },
+  {
+    "id": "geometry-vibes",
+    "thumbnail": "https://LearningQuests.github.io/images/353.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "m5-city-driver",
+    "thumbnail": "https://LearningQuests.github.io/images/354.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "brainrot-clicker",
+    "thumbnail": "https://LearningQuests.github.io/images/355.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "quackventure",
+    "thumbnail": "https://LearningQuests.github.io/images/356.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "battle-racing-stars",
+    "thumbnail": "https://LearningQuests.github.io/images/357.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "fight-for-the-tree",
+    "thumbnail": "https://LearningQuests.github.io/images/358.webp",
+    "genre": "Battle, Simulation"
+  },
+  {
+    "id": "ninja-survivor",
+    "thumbnail": "https://LearningQuests.github.io/images/359.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "falling-art-ragdoll-simulator",
+    "thumbnail": "https://LearningQuests.github.io/images/360.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "square-punki-long-hand",
+    "thumbnail": "https://LearningQuests.github.io/images/361.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "star-wing",
+    "thumbnail": "https://LearningQuests.github.io/images/362.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "stickman-vs-zombies-epic-fight",
+    "thumbnail": "https://LearningQuests.github.io/images/363.webp",
+    "genre": "Adventure, Battle"
+  },
+  {
+    "id": "ultimate-transport-driving-sim",
+    "thumbnail": "https://LearningQuests.github.io/images/364.webp",
+    "genre": ".IO, Simulation"
+  },
+  {
+    "id": "clinic-cleanup-crew",
+    "thumbnail": "https://LearningQuests.github.io/images/365.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "bubble-shooter-witch-tower",
+    "thumbnail": "https://LearningQuests.github.io/images/366.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "goon-ball",
+    "thumbnail": "https://LearningQuests.github.io/images/367.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "thats-my-seat-logic-puzzle",
+    "thumbnail": "https://LearningQuests.github.io/images/368.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cat-and-granny-original",
+    "thumbnail": "https://LearningQuests.github.io/images/369.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ice-skating-ballerina",
+    "thumbnail": "https://LearningQuests.github.io/images/370.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "duck-life-adventure-demo",
+    "thumbnail": "https://LearningQuests.github.io/images/371.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "diamond-dungeon---match-3",
+    "thumbnail": "https://LearningQuests.github.io/images/372.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pickle-ball-clash",
+    "thumbnail": "https://LearningQuests.github.io/images/373.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "block-legends",
+    "thumbnail": "https://LearningQuests.github.io/images/374.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "thread-fever-kue",
+    "thumbnail": "https://LearningQuests.github.io/images/375.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "secret-galaxy-match-three",
+    "thumbnail": "https://LearningQuests.github.io/images/376.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "superweird",
+    "thumbnail": "https://LearningQuests.github.io/images/377.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "floof-my-pet-house",
+    "thumbnail": "https://LearningQuests.github.io/images/378.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "twinkle-shooter",
+    "thumbnail": "https://LearningQuests.github.io/images/379.webp",
+    "genre": "Puzzle, Bubble Shooter"
+  },
+  {
+    "id": "relax-mini-games-collection",
+    "thumbnail": "https://LearningQuests.github.io/images/380.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "rotcalypse-idle-incremental",
+    "thumbnail": "https://LearningQuests.github.io/images/381.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "castle-wars-middle-ages",
+    "thumbnail": "https://LearningQuests.github.io/images/382.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "oil-tanker-transport-truck",
+    "thumbnail": "https://LearningQuests.github.io/images/383.webp",
+    "genre": ".IO, Simulation"
+  },
+  {
+    "id": "mineclicker",
+    "thumbnail": "https://LearningQuests.github.io/images/384.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "glove-power",
+    "thumbnail": "https://LearningQuests.github.io/images/385.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "jixora-jigsaw-solitaire-puzzle",
+    "thumbnail": "https://LearningQuests.github.io/images/386.webp",
+    "genre": "Jigsaw, Strategy"
+  },
+  {
+    "id": "fleeing-the-complex",
+    "thumbnail": "https://LearningQuests.github.io/images/387.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pogo-masters",
+    "thumbnail": "https://LearningQuests.github.io/images/388.webp",
+    "genre": "Racing & Driving, Sports"
+  },
+  {
+    "id": "penalty-shooters-3",
+    "thumbnail": "https://LearningQuests.github.io/images/389.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bffs-golden-hour",
+    "thumbnail": "https://LearningQuests.github.io/images/390.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "grow-defense",
+    "thumbnail": "https://LearningQuests.github.io/images/391.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "who-dies-last",
+    "thumbnail": "https://LearningQuests.github.io/images/392.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gothic-knife",
+    "thumbnail": "https://LearningQuests.github.io/images/393.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "beam",
+    "thumbnail": "https://LearningQuests.github.io/images/394.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "draw-bridge-brain-game",
+    "thumbnail": "https://LearningQuests.github.io/images/395.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "car-fighter",
+    "thumbnail": "https://LearningQuests.github.io/images/396.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "word-scramble-family-tales",
+    "thumbnail": "https://LearningQuests.github.io/images/397.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "head-basketball",
+    "thumbnail": "https://LearningQuests.github.io/images/398.webp",
+    "genre": "Basketball"
+  },
+  {
+    "id": "racing-builder",
+    "thumbnail": "https://LearningQuests.github.io/images/399.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "immortal-dark-slayer",
+    "thumbnail": "https://LearningQuests.github.io/images/400.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sort-and-style-back-to-school",
+    "thumbnail": "https://LearningQuests.github.io/images/401.webp",
+    "genre": "Puzzle, Dress-up"
+  },
+  {
+    "id": "drop-merge-the-numbers",
+    "thumbnail": "https://LearningQuests.github.io/images/402.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "diy-phone-case-shop",
+    "thumbnail": "https://LearningQuests.github.io/images/403.webp",
+    "genre": "Art, Casual"
+  },
+  {
+    "id": "pool-hustlers",
+    "thumbnail": "https://LearningQuests.github.io/images/404.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "survival-sword-battle",
+    "thumbnail": "https://LearningQuests.github.io/images/405.webp",
+    "genre": "Agility, Battle"
+  },
+  {
+    "id": "grill-party",
+    "thumbnail": "https://LearningQuests.github.io/images/406.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "garden-tile",
+    "thumbnail": "https://LearningQuests.github.io/images/407.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "antistress-relaxation-box",
+    "thumbnail": "https://LearningQuests.github.io/images/408.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "escape-school-duel",
+    "thumbnail": "https://LearningQuests.github.io/images/409.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tv-invasion",
+    "thumbnail": "https://LearningQuests.github.io/images/410.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "chill-girl-clicker",
+    "thumbnail": "https://LearningQuests.github.io/images/411.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "swipetown",
+    "thumbnail": "https://LearningQuests.github.io/images/412.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "wild-archer-castle-defense",
+    "thumbnail": "https://LearningQuests.github.io/images/413.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "match-factory",
+    "thumbnail": "https://LearningQuests.github.io/images/414.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "find-joe-unsolved-mystery-pno",
+    "thumbnail": "https://LearningQuests.github.io/images/415.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "extreme-makeover",
+    "thumbnail": "https://LearningQuests.github.io/images/416.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "geometry-open-world",
+    "thumbnail": "https://LearningQuests.github.io/images/417.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "solitairetripeaks-island-expeditio",
+    "thumbnail": "https://LearningQuests.github.io/images/418.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cardlike",
+    "thumbnail": "https://LearningQuests.github.io/images/419.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "survival-craft-adventure",
+    "thumbnail": "https://LearningQuests.github.io/images/420.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dalgona-game2",
+    "thumbnail": "https://LearningQuests.github.io/images/421.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "papa-cherry-saga",
+    "thumbnail": "https://LearningQuests.github.io/images/422.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "minicraft-winterblock",
+    "thumbnail": "https://LearningQuests.github.io/images/423.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "match-masters-jiy",
+    "thumbnail": "https://LearningQuests.github.io/images/424.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "what-a-walk",
+    "thumbnail": "https://LearningQuests.github.io/images/425.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "jailbreak-assault",
+    "thumbnail": "https://LearningQuests.github.io/images/426.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "embercry",
+    "thumbnail": "https://LearningQuests.github.io/images/427.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "break-beat",
+    "thumbnail": "https://LearningQuests.github.io/images/428.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "crazy-grand-prix",
+    "thumbnail": "https://LearningQuests.github.io/images/429.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "basketball-legends-2020",
+    "thumbnail": "https://LearningQuests.github.io/images/430.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mind-games-math-crosswords",
+    "thumbnail": "https://LearningQuests.github.io/images/431.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "math-quest",
+    "thumbnail": "https://LearningQuests.github.io/images/432.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "crazy-vikings-life",
+    "thumbnail": "https://LearningQuests.github.io/images/433.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tavern-rumble-roguelike-card",
+    "thumbnail": "https://LearningQuests.github.io/images/434.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bubble-around",
+    "thumbnail": "https://LearningQuests.github.io/images/435.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "bowman",
+    "thumbnail": "https://LearningQuests.github.io/images/436.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ladder-to-brainhot-climb",
+    "thumbnail": "https://LearningQuests.github.io/images/437.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "swarm-together",
+    "thumbnail": "https://LearningQuests.github.io/images/438.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tasty-jewel-joy",
+    "thumbnail": "https://LearningQuests.github.io/images/439.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "twisted-tangle-nmt",
+    "thumbnail": "https://LearningQuests.github.io/images/440.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "christmas-blind-box",
+    "thumbnail": "https://LearningQuests.github.io/images/441.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "destructors-online",
+    "thumbnail": "https://LearningQuests.github.io/images/442.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "reply-run",
+    "thumbnail": "https://LearningQuests.github.io/images/443.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fox-simulator-3d",
+    "thumbnail": "https://LearningQuests.github.io/images/444.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "get-a-screw-3d-puzzle",
+    "thumbnail": "https://LearningQuests.github.io/images/445.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "snooker",
+    "thumbnail": "https://LearningQuests.github.io/images/446.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pregnant-mother-simulator",
+    "thumbnail": "https://LearningQuests.github.io/images/447.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pinball-vs-zombie",
+    "thumbnail": "https://LearningQuests.github.io/images/448.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "office-solitaire",
+    "thumbnail": "https://LearningQuests.github.io/images/449.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "mahjong-sort-puzzle",
+    "thumbnail": "https://LearningQuests.github.io/images/450.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "archery-world-tour",
+    "thumbnail": "https://LearningQuests.github.io/images/451.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gas-station-ooe",
+    "thumbnail": "https://LearningQuests.github.io/images/452.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "12-minibattles",
+    "thumbnail": "https://LearningQuests.github.io/images/453.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "downhill-car-ride-crash-test",
+    "thumbnail": "https://LearningQuests.github.io/images/454.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "bouncy-blob-race-obstacle-course",
+    "thumbnail": "https://LearningQuests.github.io/images/455.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "find-me-lost-objects",
+    "thumbnail": "https://LearningQuests.github.io/images/456.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "harvesting-veggies",
+    "thumbnail": "https://LearningQuests.github.io/images/457.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "super-slime",
+    "thumbnail": "https://LearningQuests.github.io/images/458.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "hexa-puzzle",
+    "thumbnail": "https://LearningQuests.github.io/images/459.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "monster-makeup-3d",
+    "thumbnail": "https://LearningQuests.github.io/images/460.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "count-and-bounce",
+    "thumbnail": "https://LearningQuests.github.io/images/461.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "ghost-dorm",
+    "thumbnail": "https://LearningQuests.github.io/images/462.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "strawberry-shortcake-boardgames",
+    "thumbnail": "https://LearningQuests.github.io/images/463.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "4x4-offroader",
+    "thumbnail": "https://LearningQuests.github.io/images/464.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "deadly-parkour",
+    "thumbnail": "https://LearningQuests.github.io/images/465.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "compact-conflict",
+    "thumbnail": "https://LearningQuests.github.io/images/466.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fly-fly-fly",
+    "thumbnail": "https://LearningQuests.github.io/images/467.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "supply-chain-idle",
+    "thumbnail": "https://LearningQuests.github.io/images/468.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "10-minute-mage",
+    "thumbnail": "https://LearningQuests.github.io/images/469.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sticky-orbit",
+    "thumbnail": "https://LearningQuests.github.io/images/470.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bank-robbery-escape",
+    "thumbnail": "https://LearningQuests.github.io/images/471.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "ink-inc-tattoo",
+    "thumbnail": "https://LearningQuests.github.io/images/472.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "ragdoll-bounce",
+    "thumbnail": "https://LearningQuests.github.io/images/473.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "pumpking-vs-mummy",
+    "thumbnail": "https://LearningQuests.github.io/images/474.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "car-park-simulator",
+    "thumbnail": "https://LearningQuests.github.io/images/475.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "daily-wordler",
+    "thumbnail": "https://LearningQuests.github.io/images/476.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "blocks-fill-tangram",
+    "thumbnail": "https://LearningQuests.github.io/images/477.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "think-to-escape-2",
+    "thumbnail": "https://LearningQuests.github.io/images/478.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ellie-s-recipe-dubai-chocolate-bar",
+    "thumbnail": "https://LearningQuests.github.io/images/479.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "find-steal-brainrot-67-game",
+    "thumbnail": "https://LearningQuests.github.io/images/480.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "jigsaw-m",
+    "thumbnail": "https://LearningQuests.github.io/images/481.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "break-it---brick-breaker",
+    "thumbnail": "https://LearningQuests.github.io/images/482.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "chicken-wild-run",
+    "thumbnail": "https://LearningQuests.github.io/images/483.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "geometry-stars",
+    "thumbnail": "https://LearningQuests.github.io/images/484.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "woodoku-block-puzzle",
+    "thumbnail": "https://LearningQuests.github.io/images/485.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "merry-christmas-connect",
+    "thumbnail": "https://LearningQuests.github.io/images/486.webp",
+    "genre": "Mahjong & Connect, Match-3"
+  },
+  {
+    "id": "idle-defence",
+    "thumbnail": "https://LearningQuests.github.io/images/487.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "21a",
+    "thumbnail": "https://LearningQuests.github.io/images/488.webp",
+    "genre": "Care, Casual"
+  },
+  {
+    "id": "impostor-among-us-escape-from-prison",
+    "thumbnail": "https://LearningQuests.github.io/images/489.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "hazel-tangle-rope-3d-sorting-puzzle",
+    "thumbnail": "https://LearningQuests.github.io/images/490.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "merge-racer-stunts-car",
+    "thumbnail": "https://LearningQuests.github.io/images/491.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "minibattles-2-3-4-5-6-player-games",
+    "thumbnail": "https://LearningQuests.github.io/images/492.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "owner-is-dead-2",
+    "thumbnail": "https://LearningQuests.github.io/images/493.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "marble-run-ultimate-race",
+    "thumbnail": "https://LearningQuests.github.io/images/494.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "lumber-factory-simulator",
+    "thumbnail": "https://LearningQuests.github.io/images/495.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "bubble-pop-frenzy-dnt",
+    "thumbnail": "https://LearningQuests.github.io/images/496.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "backwoods",
+    "thumbnail": "https://LearningQuests.github.io/images/497.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "logic-slide",
+    "thumbnail": "https://LearningQuests.github.io/images/498.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "happy-farm",
+    "thumbnail": "https://LearningQuests.github.io/images/499.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "blankets",
+    "thumbnail": "https://LearningQuests.github.io/images/500.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "christmas-girls-dress-up",
+    "thumbnail": "https://LearningQuests.github.io/images/501.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "air-strike",
+    "thumbnail": "https://LearningQuests.github.io/images/502.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hazmob-fps-online-shooter",
+    "thumbnail": "https://LearningQuests.github.io/images/503.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "halloween-merge-mania",
+    "thumbnail": "https://LearningQuests.github.io/images/504.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "butterfly-shimai",
+    "thumbnail": "https://LearningQuests.github.io/images/505.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "moto-trials-rush",
+    "thumbnail": "https://LearningQuests.github.io/images/506.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "fruit-juice-clicker-wic",
+    "thumbnail": "https://LearningQuests.github.io/images/507.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ninjaroof",
+    "thumbnail": "https://LearningQuests.github.io/images/508.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "mine-quest-daily",
+    "thumbnail": "https://LearningQuests.github.io/images/509.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "car-care-repair-dudu-mechanic",
+    "thumbnail": "https://LearningQuests.github.io/images/510.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "attack-of-the-dead",
+    "thumbnail": "https://LearningQuests.github.io/images/511.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "truck-simulator-european-roads",
+    "thumbnail": "https://LearningQuests.github.io/images/512.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "digital-circus-obby",
+    "thumbnail": "https://LearningQuests.github.io/images/513.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "idle-dice-3d-incremental-game",
+    "thumbnail": "https://LearningQuests.github.io/images/514.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "color-sand-puzzle",
+    "thumbnail": "https://LearningQuests.github.io/images/515.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "samurai-madness",
+    "thumbnail": "https://LearningQuests.github.io/images/516.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-blocks-2048-style",
+    "thumbnail": "https://LearningQuests.github.io/images/517.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mr-mine-escape",
+    "thumbnail": "https://LearningQuests.github.io/images/518.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "wool-mania---sort-puzzle-3d",
+    "thumbnail": "https://LearningQuests.github.io/images/519.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "3d-acrylic-nail-nail-art-game",
+    "thumbnail": "https://LearningQuests.github.io/images/520.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "cube-stories-escape",
+    "thumbnail": "https://LearningQuests.github.io/images/521.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cute-sheep-skyblock",
+    "thumbnail": "https://LearningQuests.github.io/images/522.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "ant-kingdom-rush",
+    "thumbnail": "https://LearningQuests.github.io/images/523.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mahjong-connect-1",
+    "thumbnail": "https://LearningQuests.github.io/images/524.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "moto-x3m",
+    "thumbnail": "https://LearningQuests.github.io/images/525.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-hospital",
+    "thumbnail": "https://LearningQuests.github.io/images/526.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "screw-masters-3d-puzzle",
+    "thumbnail": "https://LearningQuests.github.io/images/527.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "commit-battery-2",
+    "thumbnail": "https://LearningQuests.github.io/images/528.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "money-printer",
+    "thumbnail": "https://LearningQuests.github.io/images/529.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "catch-a-fish-obby",
+    "thumbnail": "https://LearningQuests.github.io/images/530.webp",
+    "genre": "Battle, Strategy"
+  },
+  {
+    "id": "hill-travel-3d",
+    "thumbnail": "https://LearningQuests.github.io/images/531.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "idle-airport-ceo",
+    "thumbnail": "https://LearningQuests.github.io/images/532.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "coin-clicker",
+    "thumbnail": "https://LearningQuests.github.io/images/533.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "get-ready-with-me-concert-day",
+    "thumbnail": "https://LearningQuests.github.io/images/534.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "soccer-euro-cup-2025",
+    "thumbnail": "https://LearningQuests.github.io/images/535.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "going-balls-adventure-2",
+    "thumbnail": "https://LearningQuests.github.io/images/536.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "idle-airline-tycoon",
+    "thumbnail": "https://LearningQuests.github.io/images/537.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "homerun-derby",
+    "thumbnail": "https://LearningQuests.github.io/images/538.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "words-of-wonders",
+    "thumbnail": "https://LearningQuests.github.io/images/539.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stickman-rocket",
+    "thumbnail": "https://LearningQuests.github.io/images/540.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "1010-elixir-alchemy",
+    "thumbnail": "https://LearningQuests.github.io/images/541.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "gmod-bombs",
+    "thumbnail": "https://LearningQuests.github.io/images/542.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "connect-clues-the-missing-professor",
+    "thumbnail": "https://LearningQuests.github.io/images/543.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "free-rally-lost-angeles",
+    "thumbnail": "https://LearningQuests.github.io/images/544.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "space-raider",
+    "thumbnail": "https://LearningQuests.github.io/images/545.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "musketeers-gunpowder-vs-steel",
+    "thumbnail": "https://LearningQuests.github.io/images/546.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "elementz",
+    "thumbnail": "https://LearningQuests.github.io/images/547.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "pixel-destroyer",
+    "thumbnail": "https://LearningQuests.github.io/images/548.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "merge-cubes-2048-3d",
+    "thumbnail": "https://LearningQuests.github.io/images/549.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "penguin-farm-ice-merge",
+    "thumbnail": "https://LearningQuests.github.io/images/550.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "darts-jam",
+    "thumbnail": "https://LearningQuests.github.io/images/551.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "let-me-eat-big-fish-eat-smaller",
+    "thumbnail": "https://LearningQuests.github.io/images/552.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "derby-crash-5",
+    "thumbnail": "https://LearningQuests.github.io/images/553.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "faraway-puzzle-escape",
+    "thumbnail": "https://LearningQuests.github.io/images/554.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "runic-block-collapse",
+    "thumbnail": "https://LearningQuests.github.io/images/555.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "eastern-star-vs-city-style-icon",
+    "thumbnail": "https://LearningQuests.github.io/images/556.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "horror-nights-story",
+    "thumbnail": "https://LearningQuests.github.io/images/557.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "froggy-hop",
+    "thumbnail": "https://LearningQuests.github.io/images/558.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "princess-royal-wedding",
+    "thumbnail": "https://LearningQuests.github.io/images/559.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "city-car-driving-simulator-online",
+    "thumbnail": "https://LearningQuests.github.io/images/560.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ducklings",
+    "thumbnail": "https://LearningQuests.github.io/images/561.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "candy-match-puzzle",
+    "thumbnail": "https://LearningQuests.github.io/images/562.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "planet-evolution-idle-clicker",
+    "thumbnail": "https://LearningQuests.github.io/images/563.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "online-car-destruction-simulator-3d",
+    "thumbnail": "https://LearningQuests.github.io/images/564.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "sudo-tetroid-daily",
+    "thumbnail": "https://LearningQuests.github.io/images/565.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "grandfather-road-chase-realistic-shooter",
+    "thumbnail": "https://LearningQuests.github.io/images/566.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sticker-art",
+    "thumbnail": "https://LearningQuests.github.io/images/567.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "brainrot-idle-clicker",
+    "thumbnail": "https://LearningQuests.github.io/images/568.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mind-controller",
+    "thumbnail": "https://LearningQuests.github.io/images/569.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "red-stickman-vs-craftmans-2",
+    "thumbnail": "https://LearningQuests.github.io/images/570.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "apple-shooter",
+    "thumbnail": "https://LearningQuests.github.io/images/571.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "school-panic",
+    "thumbnail": "https://LearningQuests.github.io/images/572.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "warcall-io",
+    "thumbnail": "https://LearningQuests.github.io/images/573.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "vega-mix-fairy-town",
+    "thumbnail": "https://LearningQuests.github.io/images/574.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "planet-takeover",
+    "thumbnail": "https://LearningQuests.github.io/images/575.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "raccoon-adventure-city-simulator-3d",
+    "thumbnail": "https://LearningQuests.github.io/images/576.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "wave-road-3d",
+    "thumbnail": "https://LearningQuests.github.io/images/577.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "lol-surprise-omg-bb-driver",
+    "thumbnail": "https://LearningQuests.github.io/images/578.webp",
+    "genre": "Racing & Driving, Agility"
+  },
+  {
+    "id": "knife-up-3d",
+    "thumbnail": "https://LearningQuests.github.io/images/579.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "pool-8",
+    "thumbnail": "https://LearningQuests.github.io/images/580.webp",
+    "genre": "Puzzle, Sports"
+  },
+  {
+    "id": "ragdoll-show-throw-break-and-destroy",
+    "thumbnail": "https://LearningQuests.github.io/images/581.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "tall-io",
+    "thumbnail": "https://LearningQuests.github.io/images/582.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bolts-and-nuts",
+    "thumbnail": "https://LearningQuests.github.io/images/583.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "merge-army",
+    "thumbnail": "https://LearningQuests.github.io/images/584.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "murder-mystery",
+    "thumbnail": "https://LearningQuests.github.io/images/585.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "paperly-paper-plane-adventure",
+    "thumbnail": "https://LearningQuests.github.io/images/586.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "grand-action-simulator-new-york-car-gang",
+    "thumbnail": "https://LearningQuests.github.io/images/587.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "besties-chinese-new-year-celebration",
+    "thumbnail": "https://LearningQuests.github.io/images/588.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "ball-ring-destruction",
+    "thumbnail": "https://LearningQuests.github.io/images/589.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "monster-truck-arena",
+    "thumbnail": "https://LearningQuests.github.io/images/590.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "magnetic-pull",
+    "thumbnail": "https://LearningQuests.github.io/images/591.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hidden-object-adventure",
+    "thumbnail": "https://LearningQuests.github.io/images/592.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sort-n-hold-3d",
+    "thumbnail": "https://LearningQuests.github.io/images/593.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "k-pop-hunter-fashion",
+    "thumbnail": "https://LearningQuests.github.io/images/594.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "maze-escape-craft-man",
+    "thumbnail": "https://LearningQuests.github.io/images/595.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "king-of-cash-idle-business-sim",
+    "thumbnail": "https://LearningQuests.github.io/images/596.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "arkadium-s-bubble-shooter",
+    "thumbnail": "https://LearningQuests.github.io/images/597.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "golf-maze-ous",
+    "thumbnail": "https://LearningQuests.github.io/images/598.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "taxi-driver-master",
+    "thumbnail": "https://LearningQuests.github.io/images/599.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "arrow-exit-puzzle",
+    "thumbnail": "https://LearningQuests.github.io/images/600.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stickman-vs-villager-save-the-girl",
+    "thumbnail": "https://LearningQuests.github.io/images/601.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sorcerers-refuge",
+    "thumbnail": "https://LearningQuests.github.io/images/602.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "president-simulator",
+    "thumbnail": "https://LearningQuests.github.io/images/603.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "flying-car-simulator",
+    "thumbnail": "https://LearningQuests.github.io/images/604.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "horde-hunters",
+    "thumbnail": "https://LearningQuests.github.io/images/605.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "the-visit",
+    "thumbnail": "https://LearningQuests.github.io/images/606.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fishing-life",
+    "thumbnail": "https://LearningQuests.github.io/images/607.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "the-museum-of-dots",
+    "thumbnail": "https://LearningQuests.github.io/images/608.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "idle-animal-anatomy",
+    "thumbnail": "https://LearningQuests.github.io/images/609.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dream-wedding-planner",
+    "thumbnail": "https://LearningQuests.github.io/images/610.webp",
+    "genre": ".IO"
+  },
+  {
+    "id": "project-prismatic",
+    "thumbnail": "https://LearningQuests.github.io/images/611.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mega-fall-ragdoll-simulator",
+    "thumbnail": "https://LearningQuests.github.io/images/612.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "go-kart-racing-3d",
+    "thumbnail": "https://LearningQuests.github.io/images/613.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "geometry-vibes-x-arrow",
+    "thumbnail": "https://LearningQuests.github.io/images/614.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "abc-pizza-maker---cooking-game",
+    "thumbnail": "https://LearningQuests.github.io/images/615.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "robybox-space-station-warehouse",
+    "thumbnail": "https://LearningQuests.github.io/images/616.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "merge-galaxy",
+    "thumbnail": "https://LearningQuests.github.io/images/617.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "free-kick-classic",
+    "thumbnail": "https://LearningQuests.github.io/images/618.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "survival-on-raft-multiplayer",
+    "thumbnail": "https://LearningQuests.github.io/images/619.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "labubu-coloring-adventure",
+    "thumbnail": "https://LearningQuests.github.io/images/620.webp",
+    "genre": "Art, Casual"
+  },
+  {
+    "id": "typing-adventure",
+    "thumbnail": "https://LearningQuests.github.io/images/621.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "math-master",
+    "thumbnail": "https://LearningQuests.github.io/images/622.webp",
+    "genre": "Puzzle, Quiz"
+  },
+  {
+    "id": "bubble-shooter-remastered",
+    "thumbnail": "https://LearningQuests.github.io/images/623.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "mancala-classic",
+    "thumbnail": "https://LearningQuests.github.io/images/624.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "emoji-merge-fun-moji",
+    "thumbnail": "https://LearningQuests.github.io/images/625.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "pokey-ball",
+    "thumbnail": "https://LearningQuests.github.io/images/626.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mine-shooter-2-noob-vs-mobs",
+    "thumbnail": "https://LearningQuests.github.io/images/627.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "brainrot-a-difference-challenge",
+    "thumbnail": "https://LearningQuests.github.io/images/628.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "urban-assault-force",
+    "thumbnail": "https://LearningQuests.github.io/images/629.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "web-slinging-race",
+    "thumbnail": "https://LearningQuests.github.io/images/630.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "carnage-battle-arena",
+    "thumbnail": "https://LearningQuests.github.io/images/631.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "flywheel-incremental",
+    "thumbnail": "https://LearningQuests.github.io/images/632.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tap-block-puzzle-smash-game",
+    "thumbnail": "https://LearningQuests.github.io/images/633.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mystic-escape",
+    "thumbnail": "https://LearningQuests.github.io/images/634.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bird-flight-idle",
+    "thumbnail": "https://LearningQuests.github.io/images/635.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "spaces-solitaire",
+    "thumbnail": "https://LearningQuests.github.io/images/636.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "jumping-rush-whg",
+    "thumbnail": "https://LearningQuests.github.io/images/637.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "find-sort-match",
+    "thumbnail": "https://LearningQuests.github.io/images/638.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sprunky-incredibox-mods",
+    "thumbnail": "https://LearningQuests.github.io/images/639.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "parkour-world-2",
+    "thumbnail": "https://LearningQuests.github.io/images/640.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "horror-school-detective-story",
+    "thumbnail": "https://LearningQuests.github.io/images/641.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "case-smile-2",
+    "thumbnail": "https://LearningQuests.github.io/images/642.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "world-cup-soccer-caps",
+    "thumbnail": "https://LearningQuests.github.io/images/643.webp",
+    "genre": "Football, Casual"
+  },
+  {
+    "id": "stellar-guardian",
+    "thumbnail": "https://LearningQuests.github.io/images/644.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "basket-battle-zmg",
+    "thumbnail": "https://LearningQuests.github.io/images/645.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "planet-destroy-idle",
+    "thumbnail": "https://LearningQuests.github.io/images/646.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "celestina-chapter-two",
+    "thumbnail": "https://LearningQuests.github.io/images/647.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "barbee-met-gala-transformation",
+    "thumbnail": "https://LearningQuests.github.io/images/648.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "find-the-difference",
+    "thumbnail": "https://LearningQuests.github.io/images/649.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "barry-prison-christmas-adventure",
+    "thumbnail": "https://LearningQuests.github.io/images/650.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "head-runner-dash",
+    "thumbnail": "https://LearningQuests.github.io/images/651.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "galaxy-control-3d-strategy",
+    "thumbnail": "https://LearningQuests.github.io/images/652.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "my-dogy-virtual-pet",
+    "thumbnail": "https://LearningQuests.github.io/images/653.webp",
+    "genre": "Care, Casual"
+  },
+  {
+    "id": "supermarket-together",
+    "thumbnail": "https://LearningQuests.github.io/images/654.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "idle-breakout",
+    "thumbnail": "https://LearningQuests.github.io/images/655.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "warrior-clash-pzu",
+    "thumbnail": "https://LearningQuests.github.io/images/656.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bank-heist",
+    "thumbnail": "https://LearningQuests.github.io/images/657.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "halloween-chainsaw-massacre",
+    "thumbnail": "https://LearningQuests.github.io/images/658.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "traffic-architect-tic",
+    "thumbnail": "https://LearningQuests.github.io/images/659.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hotel-manager",
+    "thumbnail": "https://LearningQuests.github.io/images/660.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "greedy-dwarves",
+    "thumbnail": "https://LearningQuests.github.io/images/661.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "kinder-garden",
+    "thumbnail": "https://LearningQuests.github.io/images/662.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "make-up-queen-r",
+    "thumbnail": "https://LearningQuests.github.io/images/663.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "doodle-road",
+    "thumbnail": "https://LearningQuests.github.io/images/664.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "noob-in-geometry-dash",
+    "thumbnail": "https://LearningQuests.github.io/images/665.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "tunnel-runner",
+    "thumbnail": "https://LearningQuests.github.io/images/666.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dynamons-10",
+    "thumbnail": "https://LearningQuests.github.io/images/667.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "spacebar-clicker",
+    "thumbnail": "https://LearningQuests.github.io/images/668.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "knock-and-run-100-doors-escape",
+    "thumbnail": "https://LearningQuests.github.io/images/669.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "italian-brainrot-find-the-stars",
+    "thumbnail": "https://LearningQuests.github.io/images/670.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mad-truck-challenge-special",
+    "thumbnail": "https://LearningQuests.github.io/images/671.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mahjong-slide-puzzle",
+    "thumbnail": "https://LearningQuests.github.io/images/672.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "lofi-room",
+    "thumbnail": "https://LearningQuests.github.io/images/673.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "monster-truck-crush",
+    "thumbnail": "https://LearningQuests.github.io/images/674.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "nuts-stack-sort-nuts-bolts",
+    "thumbnail": "https://LearningQuests.github.io/images/675.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "diamond-drawing-by-numbers",
+    "thumbnail": "https://LearningQuests.github.io/images/676.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cave-gems",
+    "thumbnail": "https://LearningQuests.github.io/images/677.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-knights",
+    "thumbnail": "https://LearningQuests.github.io/images/678.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "uvsu-demo",
+    "thumbnail": "https://LearningQuests.github.io/images/679.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "puzzle-fever",
+    "thumbnail": "https://LearningQuests.github.io/images/680.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "pixel-blast",
+    "thumbnail": "https://LearningQuests.github.io/images/681.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "valley-of-wolves-ambush",
+    "thumbnail": "https://LearningQuests.github.io/images/682.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "kids-supermarket",
+    "thumbnail": "https://LearningQuests.github.io/images/683.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "teenage-celebrity-rivalry",
+    "thumbnail": "https://LearningQuests.github.io/images/684.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bomb-roll",
+    "thumbnail": "https://LearningQuests.github.io/images/685.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ultimate-sports-car-drift",
+    "thumbnail": "https://LearningQuests.github.io/images/686.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "2048-merge-circle",
+    "thumbnail": "https://LearningQuests.github.io/images/687.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mad-royale-tactics",
+    "thumbnail": "https://LearningQuests.github.io/images/688.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bed-wars",
+    "thumbnail": "https://LearningQuests.github.io/images/689.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "block-sniper",
+    "thumbnail": "https://LearningQuests.github.io/images/690.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "paper-wars-battles-and-upgrades",
+    "thumbnail": "https://LearningQuests.github.io/images/691.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "plant-girl-defense-zombie",
+    "thumbnail": "https://LearningQuests.github.io/images/692.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "random-wars",
+    "thumbnail": "https://LearningQuests.github.io/images/693.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "seek-and-destroy",
+    "thumbnail": "https://LearningQuests.github.io/images/694.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "murderers-vs-sheriffs-duels",
+    "thumbnail": "https://LearningQuests.github.io/images/695.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "cop-simulator",
+    "thumbnail": "https://LearningQuests.github.io/images/696.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "magic-sort",
+    "thumbnail": "https://LearningQuests.github.io/images/697.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "idle-supermarket-tycoon",
+    "thumbnail": "https://LearningQuests.github.io/images/698.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "fusion-2048",
+    "thumbnail": "https://LearningQuests.github.io/images/699.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "gothic-story-rpg",
+    "thumbnail": "https://LearningQuests.github.io/images/700.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sorting-xmas-balls",
+    "thumbnail": "https://LearningQuests.github.io/images/701.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "unicorn-family-simulator-magic-world",
+    "thumbnail": "https://LearningQuests.github.io/images/702.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tankcraft-2",
+    "thumbnail": "https://LearningQuests.github.io/images/703.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cyberpunk-city-fashion",
+    "thumbnail": "https://LearningQuests.github.io/images/704.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "redline-idle-front",
+    "thumbnail": "https://LearningQuests.github.io/images/705.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "slingshot-fortress",
+    "thumbnail": "https://LearningQuests.github.io/images/706.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "gun-range-idle",
+    "thumbnail": "https://LearningQuests.github.io/images/707.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "the-big-hit-run",
+    "thumbnail": "https://LearningQuests.github.io/images/708.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "dogs-vs-aliens",
+    "thumbnail": "https://LearningQuests.github.io/images/709.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "acox-runner",
+    "thumbnail": "https://LearningQuests.github.io/images/710.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "world-wars-2",
+    "thumbnail": "https://LearningQuests.github.io/images/711.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "3d-basketballio-dunk-sport",
+    "thumbnail": "https://LearningQuests.github.io/images/712.webp",
+    "genre": "Basketball"
+  },
+  {
+    "id": "catch-thief",
+    "thumbnail": "https://LearningQuests.github.io/images/713.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "mystic-object-hunt",
+    "thumbnail": "https://LearningQuests.github.io/images/714.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "happy-egg-catch",
+    "thumbnail": "https://LearningQuests.github.io/images/715.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "racing-car-destroying-zombie",
+    "thumbnail": "https://LearningQuests.github.io/images/716.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "suez-canal-training-simulator",
+    "thumbnail": "https://LearningQuests.github.io/images/717.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gemstone-glam",
+    "thumbnail": "https://LearningQuests.github.io/images/718.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "beat-the-zombies",
+    "thumbnail": "https://LearningQuests.github.io/images/719.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "galactic-grind",
+    "thumbnail": "https://LearningQuests.github.io/images/720.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dont-tax-me-bro",
+    "thumbnail": "https://LearningQuests.github.io/images/721.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pop-it-duel",
+    "thumbnail": "https://LearningQuests.github.io/images/722.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "crazy-pig-simulator",
+    "thumbnail": "https://LearningQuests.github.io/images/723.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tower-of-hell-obby-blox",
+    "thumbnail": "https://LearningQuests.github.io/images/724.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "dragon-merge",
+    "thumbnail": "https://LearningQuests.github.io/images/725.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bowling-stars",
+    "thumbnail": "https://LearningQuests.github.io/images/726.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "polytrack",
+    "thumbnail": "https://LearningQuests.github.io/images/727.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "crazy-crypt-escape",
+    "thumbnail": "https://LearningQuests.github.io/images/728.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "swat-cats-shooter",
+    "thumbnail": "https://LearningQuests.github.io/images/729.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "space-invaders",
+    "thumbnail": "https://LearningQuests.github.io/images/730.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-pirates-caribbean-battle",
+    "thumbnail": "https://LearningQuests.github.io/images/731.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "latutu-holiday-gift-hunt",
+    "thumbnail": "https://LearningQuests.github.io/images/732.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "zig-snake",
+    "thumbnail": "https://LearningQuests.github.io/images/733.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "viscous-ventures",
+    "thumbnail": "https://LearningQuests.github.io/images/734.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "grab-and-run",
+    "thumbnail": "https://LearningQuests.github.io/images/735.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mr-dude-online-multiverse-challenge",
+    "thumbnail": "https://LearningQuests.github.io/images/736.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "starbase-gunship",
+    "thumbnail": "https://LearningQuests.github.io/images/737.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "super-oliver-world",
+    "thumbnail": "https://LearningQuests.github.io/images/738.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "logo-quiz-game-world-trivia",
+    "thumbnail": "https://LearningQuests.github.io/images/739.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "shorties-kingdom-3",
+    "thumbnail": "https://LearningQuests.github.io/images/740.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "go-go-market",
+    "thumbnail": "https://LearningQuests.github.io/images/741.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "color-brain-test-games",
+    "thumbnail": "https://LearningQuests.github.io/images/742.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "dr-psycho-hospital-escape",
+    "thumbnail": "https://LearningQuests.github.io/images/743.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "coe-rabbit",
+    "thumbnail": "https://LearningQuests.github.io/images/744.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "minetap-merge-clicker",
+    "thumbnail": "https://LearningQuests.github.io/images/745.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "merge-and-fight",
+    "thumbnail": "https://LearningQuests.github.io/images/746.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "race-it-car-racing",
+    "thumbnail": "https://LearningQuests.github.io/images/747.webp",
+    "genre": "Racing & Driving, Sports"
+  },
+  {
+    "id": "run-and-jump-for-brainrot",
+    "thumbnail": "https://LearningQuests.github.io/images/748.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "summer-rider-3d",
+    "thumbnail": "https://LearningQuests.github.io/images/749.webp",
+    "genre": "Racing & Driving, Casual"
+  },
+  {
+    "id": "tetris-with-physics",
+    "thumbnail": "https://LearningQuests.github.io/images/750.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mutant-run",
+    "thumbnail": "https://LearningQuests.github.io/images/751.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "mobile-phone-case-diy",
+    "thumbnail": "https://LearningQuests.github.io/images/752.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "jail-prison-van-police-game",
+    "thumbnail": "https://LearningQuests.github.io/images/753.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "steal-brainrot-survivors-ddq",
+    "thumbnail": "https://LearningQuests.github.io/images/754.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "crazy-mechs",
+    "thumbnail": "https://LearningQuests.github.io/images/755.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "subway-clash-remastered",
+    "thumbnail": "https://LearningQuests.github.io/images/756.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "icolorcoin-sort-puzzle",
+    "thumbnail": "https://LearningQuests.github.io/images/757.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bullets-in-a-china-shop-mdi",
+    "thumbnail": "https://LearningQuests.github.io/images/758.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "agent-hunt-spy-shooter-game",
+    "thumbnail": "https://LearningQuests.github.io/images/759.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "shoot-gun-clicker",
+    "thumbnail": "https://LearningQuests.github.io/images/760.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "rag-doll",
+    "thumbnail": "https://LearningQuests.github.io/images/761.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mahjong-classic-webgl",
+    "thumbnail": "https://LearningQuests.github.io/images/762.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mr-bounce",
+    "thumbnail": "https://LearningQuests.github.io/images/763.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "robby-bomberman",
+    "thumbnail": "https://LearningQuests.github.io/images/764.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "plant-merge-zombie-war",
+    "thumbnail": "https://LearningQuests.github.io/images/765.webp",
+    "genre": "Adventure, Merge"
+  },
+  {
+    "id": "color-nonogram-puzzle-2",
+    "thumbnail": "https://LearningQuests.github.io/images/766.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "road-digging-puzzle",
+    "thumbnail": "https://LearningQuests.github.io/images/767.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "spider-bubu",
+    "thumbnail": "https://LearningQuests.github.io/images/768.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "rope-sorting",
+    "thumbnail": "https://LearningQuests.github.io/images/769.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "muscle-up-master",
+    "thumbnail": "https://LearningQuests.github.io/images/770.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "color-yarn-sort",
+    "thumbnail": "https://LearningQuests.github.io/images/771.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "arrow-sorting",
+    "thumbnail": "https://LearningQuests.github.io/images/772.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mega-ragdoll-sandbox-simulator",
+    "thumbnail": "https://LearningQuests.github.io/images/773.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "volcano-island",
+    "thumbnail": "https://LearningQuests.github.io/images/774.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "royal-square",
+    "thumbnail": "https://LearningQuests.github.io/images/775.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "touchdown-master",
+    "thumbnail": "https://LearningQuests.github.io/images/776.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "dig-tycoon---idle-game-3d",
+    "thumbnail": "https://LearningQuests.github.io/images/777.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "arcade-rope",
+    "thumbnail": "https://LearningQuests.github.io/images/778.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "the-earth-evolution",
+    "thumbnail": "https://LearningQuests.github.io/images/779.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "dream-mania-happy-match",
+    "thumbnail": "https://LearningQuests.github.io/images/780.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "car-painting-simulator",
+    "thumbnail": "https://LearningQuests.github.io/images/781.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "idle-inventor",
+    "thumbnail": "https://LearningQuests.github.io/images/782.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "idle-crafting-empire-tycoon",
+    "thumbnail": "https://LearningQuests.github.io/images/783.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mineblox---guess-the-recipe",
+    "thumbnail": "https://LearningQuests.github.io/images/784.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "martian-builders-tycoon",
+    "thumbnail": "https://LearningQuests.github.io/images/785.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "classic-bowling",
+    "thumbnail": "https://LearningQuests.github.io/images/786.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "heat-incremental",
+    "thumbnail": "https://LearningQuests.github.io/images/787.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "smash-karts",
+    "thumbnail": "https://LearningQuests.github.io/images/788.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "otu",
+    "thumbnail": "https://LearningQuests.github.io/images/789.webp",
+    "genre": "Agility"
+  },
+  {
+    "id": "school-teacher-game-school-day",
+    "thumbnail": "https://LearningQuests.github.io/images/790.webp",
+    "genre": "Adventure, Strategy"
+  },
+  {
+    "id": "pin-detective",
+    "thumbnail": "https://LearningQuests.github.io/images/791.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "supermarket-sort-grocery-game",
+    "thumbnail": "https://LearningQuests.github.io/images/792.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mojo-match-3d",
+    "thumbnail": "https://LearningQuests.github.io/images/793.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "rogue-soul-2",
+    "thumbnail": "https://LearningQuests.github.io/images/794.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "muki-wizard",
+    "thumbnail": "https://LearningQuests.github.io/images/795.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "the-army",
+    "thumbnail": "https://LearningQuests.github.io/images/796.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stickman-zombie-vs-stickman-hero",
+    "thumbnail": "https://LearningQuests.github.io/images/797.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "mermaid-wedding-world",
+    "thumbnail": "https://LearningQuests.github.io/images/798.webp",
+    "genre": "Dress-up, Simulation"
+  },
+  {
+    "id": "8-ball-pool-wyr",
+    "thumbnail": "https://LearningQuests.github.io/images/799.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "clash-of-vikings",
+    "thumbnail": "https://LearningQuests.github.io/images/800.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "squish-uwy",
+    "thumbnail": "https://LearningQuests.github.io/images/801.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "timewarriors",
+    "thumbnail": "https://LearningQuests.github.io/images/802.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "warfront",
+    "thumbnail": "https://LearningQuests.github.io/images/803.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "craft-drill",
+    "thumbnail": "https://LearningQuests.github.io/images/804.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "girl-coloring-dress-up-games",
+    "thumbnail": "https://LearningQuests.github.io/images/805.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "radiance-hearts",
+    "thumbnail": "https://LearningQuests.github.io/images/806.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "moto-cabbie-simulator",
+    "thumbnail": "https://LearningQuests.github.io/images/807.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "ultimate-flying-car-2",
+    "thumbnail": "https://LearningQuests.github.io/images/808.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "miner-tycoon-big-dynamite",
+    "thumbnail": "https://LearningQuests.github.io/images/809.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "blocky-parkour-only-up-adventure",
+    "thumbnail": "https://LearningQuests.github.io/images/810.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "uncle-bullet-007",
+    "thumbnail": "https://LearningQuests.github.io/images/811.webp",
+    "genre": "Puzzle, Shooter"
+  },
+  {
+    "id": "tile-craft-3d",
+    "thumbnail": "https://LearningQuests.github.io/images/812.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "k-wedding-dream",
+    "thumbnail": "https://LearningQuests.github.io/images/813.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "zombie-outbreak-survive",
+    "thumbnail": "https://LearningQuests.github.io/images/814.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "max-vs-gangsters",
+    "thumbnail": "https://LearningQuests.github.io/images/815.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stickman-shooter-bros",
+    "thumbnail": "https://LearningQuests.github.io/images/816.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "jump-and-hover",
+    "thumbnail": "https://LearningQuests.github.io/images/817.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "crazysteveio",
+    "thumbnail": "https://LearningQuests.github.io/images/818.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ninja-bamboo-assassin",
+    "thumbnail": "https://LearningQuests.github.io/images/819.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hungry-corgi-cute-music-game",
+    "thumbnail": "https://LearningQuests.github.io/images/820.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "tiles-of-the-simpsons",
+    "thumbnail": "https://LearningQuests.github.io/images/821.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fight-trivia",
+    "thumbnail": "https://LearningQuests.github.io/images/822.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "bff-happy-spring",
+    "thumbnail": "https://LearningQuests.github.io/images/823.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "cs-upgrade-gun",
+    "thumbnail": "https://LearningQuests.github.io/images/824.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "ice-fishing-3d",
+    "thumbnail": "https://LearningQuests.github.io/images/825.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "cooking-world-reborn",
+    "thumbnail": "https://LearningQuests.github.io/images/826.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "steal-car-duel",
+    "thumbnail": "https://LearningQuests.github.io/images/827.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "garage-parking",
+    "thumbnail": "https://LearningQuests.github.io/images/828.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "noob-skyblock-survival",
+    "thumbnail": "https://LearningQuests.github.io/images/829.webp",
+    "genre": "Adventure, Simulation"
+  },
+  {
+    "id": "college-girl-boy-makeover",
+    "thumbnail": "https://LearningQuests.github.io/images/830.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "10-more-bullets-html5",
+    "thumbnail": "https://LearningQuests.github.io/images/831.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "create-your-beach",
+    "thumbnail": "https://LearningQuests.github.io/images/832.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "clap-clap-nightmare",
+    "thumbnail": "https://LearningQuests.github.io/images/833.webp",
+    "genre": "Adventure, .IO"
+  },
+  {
+    "id": "snake-io",
+    "thumbnail": "https://LearningQuests.github.io/images/834.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "paint-race",
+    "thumbnail": "https://LearningQuests.github.io/images/835.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "ice-cream-fever-cooking-game",
+    "thumbnail": "https://LearningQuests.github.io/images/836.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "college-girls-team-makeover",
+    "thumbnail": "https://LearningQuests.github.io/images/837.webp",
+    "genre": "Casual, Dress-up"
+  },
+  {
+    "id": "timberland-arrange-puzzle-game",
+    "thumbnail": "https://LearningQuests.github.io/images/838.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "serious-bro",
+    "thumbnail": "https://LearningQuests.github.io/images/839.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "live-avatar-maker-girls",
+    "thumbnail": "https://LearningQuests.github.io/images/840.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "caillou-chef",
+    "thumbnail": "https://LearningQuests.github.io/images/841.webp",
+    "genre": "Cooking, Simulation"
+  },
+  {
+    "id": "lucky-tower",
+    "thumbnail": "https://LearningQuests.github.io/images/842.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bartender-the-right-mix",
+    "thumbnail": "https://LearningQuests.github.io/images/843.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "delivery-now",
+    "thumbnail": "https://LearningQuests.github.io/images/844.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "island-puzzle-build-solve",
+    "thumbnail": "https://LearningQuests.github.io/images/845.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "angry-city-smasher",
+    "thumbnail": "https://LearningQuests.github.io/images/846.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "domino-world",
+    "thumbnail": "https://LearningQuests.github.io/images/847.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "end-of-world",
+    "thumbnail": "https://LearningQuests.github.io/images/848.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "count-masters-superhero",
+    "thumbnail": "https://LearningQuests.github.io/images/849.webp",
+    "genre": "Adventure, Racing & Driving"
+  },
+  {
+    "id": "euro-truck-driving-simulator-2025",
+    "thumbnail": "https://LearningQuests.github.io/images/850.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mall-anomaly",
+    "thumbnail": "https://LearningQuests.github.io/images/851.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sniper-team-3",
+    "thumbnail": "https://LearningQuests.github.io/images/852.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "kobolm-rescue",
+    "thumbnail": "https://LearningQuests.github.io/images/853.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mr-pako---car-chase-simulator-nrt",
+    "thumbnail": "https://LearningQuests.github.io/images/854.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "words-with-owl",
+    "thumbnail": "https://LearningQuests.github.io/images/855.webp",
+    "genre": "Educational"
+  },
+  {
+    "id": "last-bastion",
+    "thumbnail": "https://LearningQuests.github.io/images/856.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "steal-brainrot-original-3d",
+    "thumbnail": "https://LearningQuests.github.io/images/857.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "arsenal-online",
+    "thumbnail": "https://LearningQuests.github.io/images/858.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "rocket-sky",
+    "thumbnail": "https://LearningQuests.github.io/images/859.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "mazean-com",
+    "thumbnail": "https://LearningQuests.github.io/images/860.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tentrix",
+    "thumbnail": "https://LearningQuests.github.io/images/861.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "a-little-physics-roguelike",
+    "thumbnail": "https://LearningQuests.github.io/images/862.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "brutalmania-io",
+    "thumbnail": "https://LearningQuests.github.io/images/863.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "21-cards",
+    "thumbnail": "https://LearningQuests.github.io/images/864.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "galactic-golf-solitaire",
+    "thumbnail": "https://LearningQuests.github.io/images/865.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "ultra-realistic-blockcraft",
+    "thumbnail": "https://LearningQuests.github.io/images/866.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "butterfly-match-mastery",
+    "thumbnail": "https://LearningQuests.github.io/images/867.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "spellsword-the-last-crusade",
+    "thumbnail": "https://LearningQuests.github.io/images/868.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "asmr-tattoo-treatment",
+    "thumbnail": "https://LearningQuests.github.io/images/869.webp",
+    "genre": "Care, Dress-up"
+  },
+  {
+    "id": "block-blast-2048",
+    "thumbnail": "https://LearningQuests.github.io/images/870.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "burnin-rubber-multiplayer",
+    "thumbnail": "https://LearningQuests.github.io/images/871.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hack-and-climb",
+    "thumbnail": "https://LearningQuests.github.io/images/872.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sticker-puzzle-book",
+    "thumbnail": "https://LearningQuests.github.io/images/873.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "office-tycoon-expand-manage",
+    "thumbnail": "https://LearningQuests.github.io/images/874.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "8-ball-billiards-classic",
+    "thumbnail": "https://LearningQuests.github.io/images/875.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gold-rush-gold-simulator-3d",
+    "thumbnail": "https://LearningQuests.github.io/images/876.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "wood-block-jam",
+    "thumbnail": "https://LearningQuests.github.io/images/877.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "super-football-fever",
+    "thumbnail": "https://LearningQuests.github.io/images/878.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "clicker-heroes",
+    "thumbnail": "https://LearningQuests.github.io/images/879.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "puzzle---lines-and-knots-1",
+    "thumbnail": "https://LearningQuests.github.io/images/880.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hex-sense-2",
+    "thumbnail": "https://LearningQuests.github.io/images/881.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "idle-ants",
+    "thumbnail": "https://LearningQuests.github.io/images/882.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "special-holiday-solitaire",
+    "thumbnail": "https://LearningQuests.github.io/images/883.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "a-dark-room",
+    "thumbnail": "https://LearningQuests.github.io/images/884.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "brainstorming-2d",
+    "thumbnail": "https://LearningQuests.github.io/images/885.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "ladder-master-color-run",
+    "thumbnail": "https://LearningQuests.github.io/images/886.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "ultimate-tower-defense",
+    "thumbnail": "https://LearningQuests.github.io/images/887.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hill-station-bus-simulator",
+    "thumbnail": "https://LearningQuests.github.io/images/888.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "geometry-lite",
+    "thumbnail": "https://LearningQuests.github.io/images/889.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "tile-hexa-sort",
+    "thumbnail": "https://LearningQuests.github.io/images/890.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "frost-land",
+    "thumbnail": "https://LearningQuests.github.io/images/891.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mecha-duel",
+    "thumbnail": "https://LearningQuests.github.io/images/892.webp",
+    "genre": "Battle, Casual"
+  },
+  {
+    "id": "supermarket-manager-simulator",
+    "thumbnail": "https://LearningQuests.github.io/images/893.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "bills-must-be-paid",
+    "thumbnail": "https://LearningQuests.github.io/images/894.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "geometry-vertical",
+    "thumbnail": "https://LearningQuests.github.io/images/895.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "space-heroes-epic-galaxy-rpg",
+    "thumbnail": "https://LearningQuests.github.io/images/896.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "supermarket-simulator-cashier-game",
+    "thumbnail": "https://LearningQuests.github.io/images/897.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "spellmind",
+    "thumbnail": "https://LearningQuests.github.io/images/898.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "parking-master-urban-challenges",
+    "thumbnail": "https://LearningQuests.github.io/images/899.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "nine-cards-of-winter",
+    "thumbnail": "https://LearningQuests.github.io/images/900.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "moscow-metro-driver-3d",
+    "thumbnail": "https://LearningQuests.github.io/images/901.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "the-wall",
+    "thumbnail": "https://LearningQuests.github.io/images/902.webp",
+    "genre": "Quiz"
+  },
+  {
+    "id": "crazy-dummy-swing-multiplayer",
+    "thumbnail": "https://LearningQuests.github.io/images/903.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mathematics-racing",
+    "thumbnail": "https://LearningQuests.github.io/images/904.webp",
+    "genre": "Racing & Driving, Educational"
+  },
+  {
+    "id": "funny-mad-racing",
+    "thumbnail": "https://LearningQuests.github.io/images/905.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "heart-box",
+    "thumbnail": "https://LearningQuests.github.io/images/906.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "magic-piano-music",
+    "thumbnail": "https://LearningQuests.github.io/images/907.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sprunki-link",
+    "thumbnail": "https://LearningQuests.github.io/images/908.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "hidden-objects",
+    "thumbnail": "https://LearningQuests.github.io/images/909.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "festival-vibes-makeup",
+    "thumbnail": "https://LearningQuests.github.io/images/910.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sweet-shop-3d",
+    "thumbnail": "https://LearningQuests.github.io/images/911.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mojo-emoji",
+    "thumbnail": "https://LearningQuests.github.io/images/912.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "used-car-dealer-tycoon",
+    "thumbnail": "https://LearningQuests.github.io/images/913.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "farm-block",
+    "thumbnail": "https://LearningQuests.github.io/images/914.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "brainzombie-log-escape",
+    "thumbnail": "https://LearningQuests.github.io/images/915.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "2048-number-match",
+    "thumbnail": "https://LearningQuests.github.io/images/916.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "toy-match-3",
+    "thumbnail": "https://LearningQuests.github.io/images/917.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "black-friday-dress-up-selfie",
+    "thumbnail": "https://LearningQuests.github.io/images/918.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "industry-idle",
+    "thumbnail": "https://LearningQuests.github.io/images/919.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "off-road-overdrive",
+    "thumbnail": "https://LearningQuests.github.io/images/920.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "stickman-adventure",
+    "thumbnail": "https://LearningQuests.github.io/images/921.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "cool-girl-aesthetics",
+    "thumbnail": "https://LearningQuests.github.io/images/922.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "supreme-bomb-tag",
+    "thumbnail": "https://LearningQuests.github.io/images/923.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "favorite-puzzles",
+    "thumbnail": "https://LearningQuests.github.io/images/924.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "clash-of-cakes",
+    "thumbnail": "https://LearningQuests.github.io/images/925.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zombie-world-escape-fqd",
+    "thumbnail": "https://LearningQuests.github.io/images/926.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "idle-merge-car-and-race",
+    "thumbnail": "https://LearningQuests.github.io/images/927.webp",
+    "genre": "Strategy, Merge"
+  },
+  {
+    "id": "bus-simulator-real",
+    "thumbnail": "https://LearningQuests.github.io/images/928.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "logica-emotica",
+    "thumbnail": "https://LearningQuests.github.io/images/929.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "puppy-treat-sorting",
+    "thumbnail": "https://LearningQuests.github.io/images/930.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "nitro-speed-car-racing",
+    "thumbnail": "https://LearningQuests.github.io/images/931.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "ng-flow-lines",
+    "thumbnail": "https://LearningQuests.github.io/images/932.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cube-drop-puzzle",
+    "thumbnail": "https://LearningQuests.github.io/images/933.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "leap-and-avoid-2",
+    "thumbnail": "https://LearningQuests.github.io/images/934.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "world-war-brothers-ww2",
+    "thumbnail": "https://LearningQuests.github.io/images/935.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "war-the-knights",
+    "thumbnail": "https://LearningQuests.github.io/images/936.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sky-car-drift",
+    "thumbnail": "https://LearningQuests.github.io/images/937.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "rainbow-balls-2048",
+    "thumbnail": "https://LearningQuests.github.io/images/938.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "hook-pin-jam",
+    "thumbnail": "https://LearningQuests.github.io/images/939.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "mech-monster-arena",
+    "thumbnail": "https://LearningQuests.github.io/images/940.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "dodgeball",
+    "thumbnail": "https://LearningQuests.github.io/images/941.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "my-farm-life",
+    "thumbnail": "https://LearningQuests.github.io/images/942.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "yes-or-no-challenge-run",
+    "thumbnail": "https://LearningQuests.github.io/images/943.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "remove-the-evidence",
+    "thumbnail": "https://LearningQuests.github.io/images/944.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "tralala-la-la-la-italiano",
+    "thumbnail": "https://LearningQuests.github.io/images/945.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "jail-escape",
+    "thumbnail": "https://LearningQuests.github.io/images/946.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "doodle-dino-run",
+    "thumbnail": "https://LearningQuests.github.io/images/947.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "escape-or-die-3",
+    "thumbnail": "https://LearningQuests.github.io/images/948.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "c-virus-game-outbreak",
+    "thumbnail": "https://LearningQuests.github.io/images/949.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hotel-fever-tycoon",
+    "thumbnail": "https://LearningQuests.github.io/images/950.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "fast-lap",
+    "thumbnail": "https://LearningQuests.github.io/images/951.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "the-legendary-assassin-ninja-kal",
+    "thumbnail": "https://LearningQuests.github.io/images/952.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tower-merge",
+    "thumbnail": "https://LearningQuests.github.io/images/953.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "chocolate-dream-idle-factory",
+    "thumbnail": "https://LearningQuests.github.io/images/954.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "crazy-kitchen-multiplayer",
+    "thumbnail": "https://LearningQuests.github.io/images/955.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "draw-bridge-challenge",
+    "thumbnail": "https://LearningQuests.github.io/images/956.webp",
+    "genre": "Art"
+  },
+  {
+    "id": "sokoban-pr",
+    "thumbnail": "https://LearningQuests.github.io/images/957.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "infantry-attack-battle-3d-fps",
+    "thumbnail": "https://LearningQuests.github.io/images/958.webp",
+    "genre": "Agility, Battle"
+  },
+  {
+    "id": "zombie-rush",
+    "thumbnail": "https://LearningQuests.github.io/images/959.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "the-queen-s-jewels",
+    "thumbnail": "https://LearningQuests.github.io/images/960.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "road-madness",
+    "thumbnail": "https://LearningQuests.github.io/images/961.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "prison-life-aur",
+    "thumbnail": "https://LearningQuests.github.io/images/962.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "drunken-fighters",
+    "thumbnail": "https://LearningQuests.github.io/images/963.webp",
+    "genre": "Sports, Agility"
+  },
+  {
+    "id": "neighborhood-defense",
+    "thumbnail": "https://LearningQuests.github.io/images/964.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "diepio",
+    "thumbnail": "https://LearningQuests.github.io/images/965.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "practice-on-me",
+    "thumbnail": "https://LearningQuests.github.io/images/966.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "epic-racing---descent-on-cars",
+    "thumbnail": "https://LearningQuests.github.io/images/967.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dead-land-survival",
+    "thumbnail": "https://LearningQuests.github.io/images/968.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pipes-the-puzzle",
+    "thumbnail": "https://LearningQuests.github.io/images/969.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "match-fighter",
+    "thumbnail": "https://LearningQuests.github.io/images/970.webp",
+    "genre": "Battle, Match-3"
+  },
+  {
+    "id": "pixlock",
+    "thumbnail": "https://LearningQuests.github.io/images/971.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stickman-army-the-defenders",
+    "thumbnail": "https://LearningQuests.github.io/images/972.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "one-treasure",
+    "thumbnail": "https://LearningQuests.github.io/images/973.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "poke-the-presidents",
+    "thumbnail": "https://LearningQuests.github.io/images/974.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "ninja-crossword-challenge",
+    "thumbnail": "https://LearningQuests.github.io/images/975.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "turbo-crash",
+    "thumbnail": "https://LearningQuests.github.io/images/976.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "kiss-o-neck",
+    "thumbnail": "https://LearningQuests.github.io/images/977.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "merge-fruit",
+    "thumbnail": "https://LearningQuests.github.io/images/978.webp",
+    "genre": "Merge"
+  },
+  {
+    "id": "daycare-tycoon",
+    "thumbnail": "https://LearningQuests.github.io/images/979.webp",
+    "genre": "Educational, Simulation"
+  },
+  {
+    "id": "coinblock-clicker",
+    "thumbnail": "https://LearningQuests.github.io/images/980.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "idle-treadmill",
+    "thumbnail": "https://LearningQuests.github.io/images/981.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "solitaire-story-tripeaks-6",
+    "thumbnail": "https://LearningQuests.github.io/images/982.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "zombcopter",
+    "thumbnail": "https://LearningQuests.github.io/images/983.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "blackchain",
+    "thumbnail": "https://LearningQuests.github.io/images/984.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "crazy-colors",
+    "thumbnail": "https://LearningQuests.github.io/images/985.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stupid-zombies-ybg",
+    "thumbnail": "https://LearningQuests.github.io/images/986.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cargo-truck-driver-simulator",
+    "thumbnail": "https://LearningQuests.github.io/images/987.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "daily-solitaire-challenge",
+    "thumbnail": "https://LearningQuests.github.io/images/988.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "push-io",
+    "thumbnail": "https://LearningQuests.github.io/images/989.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "runic-curse",
+    "thumbnail": "https://LearningQuests.github.io/images/990.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "battle-arena-race-to-win",
+    "thumbnail": "https://LearningQuests.github.io/images/991.webp",
+    "genre": "Racing & Driving, Battle"
+  },
+  {
+    "id": "turnfight-com-uap",
+    "thumbnail": "https://LearningQuests.github.io/images/992.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stick-tactics-destruction",
+    "thumbnail": "https://LearningQuests.github.io/images/993.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "huggy-mix-sprunki-music-box",
+    "thumbnail": "https://LearningQuests.github.io/images/994.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "crypto-gals-tiktok-fashion",
+    "thumbnail": "https://LearningQuests.github.io/images/995.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "save-the-cats-bubble-shooter",
+    "thumbnail": "https://LearningQuests.github.io/images/996.webp",
+    "genre": "Bubble Shooter"
+  },
+  {
+    "id": "3d-maze-control",
+    "thumbnail": "https://LearningQuests.github.io/images/997.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "feed-me-monsters",
+    "thumbnail": "https://LearningQuests.github.io/images/998.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "steam-city",
+    "thumbnail": "https://LearningQuests.github.io/images/999.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "2048-city-builder",
+    "thumbnail": "https://LearningQuests.github.io/images/1000.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "eye-attack-toilet-monster-war",
+    "thumbnail": "https://LearningQuests.github.io/images/1001.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "color-dots-challenge",
+    "thumbnail": "https://LearningQuests.github.io/images/1002.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "mister-mine",
+    "thumbnail": "https://LearningQuests.github.io/images/1003.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "airport-master-plane-tycoon",
+    "thumbnail": "https://LearningQuests.github.io/images/1004.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "cattosu-chonk-cat-merge-game",
+    "thumbnail": "https://LearningQuests.github.io/images/1005.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "clicker-heroes-escape",
+    "thumbnail": "https://LearningQuests.github.io/images/1006.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "prison-break-architect-tycoon",
+    "thumbnail": "https://LearningQuests.github.io/images/1007.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "throne-vs-balloons",
+    "thumbnail": "https://LearningQuests.github.io/images/1008.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "triple-shelf-match",
+    "thumbnail": "https://LearningQuests.github.io/images/1009.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "free-kicks-world-cup-2026",
+    "thumbnail": "https://LearningQuests.github.io/images/1010.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "uno-online",
+    "thumbnail": "https://LearningQuests.github.io/images/1011.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "detective-iq-3",
+    "thumbnail": "https://LearningQuests.github.io/images/1012.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "car-eats-car-underwater-adventure",
+    "thumbnail": "https://LearningQuests.github.io/images/1013.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "car-destruction-king",
+    "thumbnail": "https://LearningQuests.github.io/images/1014.webp",
+    "genre": "Racing & Driving, Simulation"
+  },
+  {
+    "id": "my-perfect-mine",
+    "thumbnail": "https://LearningQuests.github.io/images/1015.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "feet-doctor-urgency-care",
+    "thumbnail": "https://LearningQuests.github.io/images/1016.webp",
+    "genre": "Care, Simulation"
+  },
+  {
+    "id": "agent-squad",
+    "thumbnail": "https://LearningQuests.github.io/images/1017.webp",
+    "genre": "Shooter, Agility"
+  },
+  {
+    "id": "magic-kingdom-hex-match",
+    "thumbnail": "https://LearningQuests.github.io/images/1018.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-magnat---ideal-store",
+    "thumbnail": "https://LearningQuests.github.io/images/1019.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "nuts-bolts-sort-color-puzzle",
+    "thumbnail": "https://LearningQuests.github.io/images/1020.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "crazy-stunt-cars-multiplayer",
+    "thumbnail": "https://LearningQuests.github.io/images/1021.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stealth-optional",
+    "thumbnail": "https://LearningQuests.github.io/images/1022.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "block-tech-epic-sandbox",
+    "thumbnail": "https://LearningQuests.github.io/images/1023.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "skibidi-toilet-vs-cameraman-sniper-game",
+    "thumbnail": "https://LearningQuests.github.io/images/1024.webp",
+    "genre": "Shooter, Simulation"
+  },
+  {
+    "id": "block-builder-jam",
+    "thumbnail": "https://LearningQuests.github.io/images/1025.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "knife-madness",
+    "thumbnail": "https://LearningQuests.github.io/images/1026.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "counter-craft-sniper",
+    "thumbnail": "https://LearningQuests.github.io/images/1027.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "stickman-rebirth",
+    "thumbnail": "https://LearningQuests.github.io/images/1028.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "escape-or-die-troll-devil-levels",
+    "thumbnail": "https://LearningQuests.github.io/images/1029.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "indian-suv-offroad-simulator",
+    "thumbnail": "https://LearningQuests.github.io/images/1030.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "spider-noob-obstacle-course",
+    "thumbnail": "https://LearningQuests.github.io/images/1031.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "fun-ragdoll-challenge",
+    "thumbnail": "https://LearningQuests.github.io/images/1032.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "paper-delivery-boy",
+    "thumbnail": "https://LearningQuests.github.io/images/1033.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "slenderman-must-die-abandoned-graveyard",
+    "thumbnail": "https://LearningQuests.github.io/images/1034.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "home-rush-the-fish-war",
+    "thumbnail": "https://LearningQuests.github.io/images/1035.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sortstore",
+    "thumbnail": "https://LearningQuests.github.io/images/1036.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "zip-zap",
+    "thumbnail": "https://LearningQuests.github.io/images/1037.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "battle-tanks-firestorm",
+    "thumbnail": "https://LearningQuests.github.io/images/1038.webp",
+    "genre": "Simulation, Strategy"
+  },
+  {
+    "id": "grwm-date-night",
+    "thumbnail": "https://LearningQuests.github.io/images/1039.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "word-mine",
+    "thumbnail": "https://LearningQuests.github.io/images/1040.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "my-dweller-gang",
+    "thumbnail": "https://LearningQuests.github.io/images/1041.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "aloha-mahjong",
+    "thumbnail": "https://LearningQuests.github.io/images/1042.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "quizzland-lite",
+    "thumbnail": "https://LearningQuests.github.io/images/1043.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cozy-golf",
+    "thumbnail": "https://LearningQuests.github.io/images/1044.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dead-faces-clone-online",
+    "thumbnail": "https://LearningQuests.github.io/images/1045.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "startup-fever",
+    "thumbnail": "https://LearningQuests.github.io/images/1046.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "swing-monster-decisive-battle",
+    "thumbnail": "https://LearningQuests.github.io/images/1047.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "demolition-car-rope-and-hook",
+    "thumbnail": "https://LearningQuests.github.io/images/1048.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "puzzle-about-orange",
+    "thumbnail": "https://LearningQuests.github.io/images/1049.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "asmr-beauty-clinic",
+    "thumbnail": "https://LearningQuests.github.io/images/1050.webp",
+    "genre": "Care, Dress-up"
+  },
+  {
+    "id": "maze-escape-challenge",
+    "thumbnail": "https://LearningQuests.github.io/images/1051.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "sudoku-vault",
+    "thumbnail": "https://LearningQuests.github.io/images/1052.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "pixel-mine-challenge",
+    "thumbnail": "https://LearningQuests.github.io/images/1053.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "discover-the-city",
+    "thumbnail": "https://LearningQuests.github.io/images/1054.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hyper-nurse-hospital-games",
+    "thumbnail": "https://LearningQuests.github.io/images/1055.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "burnout-drift",
+    "thumbnail": "https://LearningQuests.github.io/images/1056.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "wired-chicken-inc",
+    "thumbnail": "https://LearningQuests.github.io/images/1057.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "miniblox",
+    "thumbnail": "https://LearningQuests.github.io/images/1058.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "space-io-vft",
+    "thumbnail": "https://LearningQuests.github.io/images/1059.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "graffiti-time",
+    "thumbnail": "https://LearningQuests.github.io/images/1060.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "authentic-football",
+    "thumbnail": "https://LearningQuests.github.io/images/1061.webp",
+    "genre": "Football"
+  },
+  {
+    "id": "pop-party-suika-watermelon",
+    "thumbnail": "https://LearningQuests.github.io/images/1062.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "crazy-zoo-monkey",
+    "thumbnail": "https://LearningQuests.github.io/images/1063.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "car-dealer-idle",
+    "thumbnail": "https://LearningQuests.github.io/images/1064.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "plane-chase",
+    "thumbnail": "https://LearningQuests.github.io/images/1065.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "rope-color-sort-3d",
+    "thumbnail": "https://LearningQuests.github.io/images/1066.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "northern-lights-the-secret-of-the-forest",
+    "thumbnail": "https://LearningQuests.github.io/images/1067.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "masked-forces-zombie-survival",
+    "thumbnail": "https://LearningQuests.github.io/images/1068.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "card-solitaire-word-game",
+    "thumbnail": "https://LearningQuests.github.io/images/1069.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "settlers-of-albion",
+    "thumbnail": "https://LearningQuests.github.io/images/1070.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "prinxy-house-of-fashion",
+    "thumbnail": "https://LearningQuests.github.io/images/1071.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cards-klondike-solitaire",
+    "thumbnail": "https://LearningQuests.github.io/images/1072.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "letters-match",
+    "thumbnail": "https://LearningQuests.github.io/images/1073.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "blade-forge-3d",
+    "thumbnail": "https://LearningQuests.github.io/images/1074.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "russian-checkers-free",
+    "thumbnail": "https://LearningQuests.github.io/images/1075.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "piece-of-cake-merge-and-bake",
+    "thumbnail": "https://LearningQuests.github.io/images/1076.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "yoga-master",
+    "thumbnail": "https://LearningQuests.github.io/images/1077.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "pool-master",
+    "thumbnail": "https://LearningQuests.github.io/images/1078.webp",
+    "genre": "Sports"
+  },
+  {
+    "id": "castel-wars-modern",
+    "thumbnail": "https://LearningQuests.github.io/images/1079.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "fishland",
+    "thumbnail": "https://LearningQuests.github.io/images/1080.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "arrow-cube-escape",
+    "thumbnail": "https://LearningQuests.github.io/images/1081.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "gun-fest",
+    "thumbnail": "https://LearningQuests.github.io/images/1082.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "survive-lava-for-brainrots",
+    "thumbnail": "https://LearningQuests.github.io/images/1083.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "sprunki-challenge",
+    "thumbnail": "https://LearningQuests.github.io/images/1084.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "save-the-beauty",
+    "thumbnail": "https://LearningQuests.github.io/images/1085.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "paper-shuffle-sort",
+    "thumbnail": "https://LearningQuests.github.io/images/1086.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "3-tiles",
+    "thumbnail": "https://LearningQuests.github.io/images/1087.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "evil-neighbor-2",
+    "thumbnail": "https://LearningQuests.github.io/images/1088.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "daily-timeline",
+    "thumbnail": "https://LearningQuests.github.io/images/1089.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "animal-basketball",
+    "thumbnail": "https://LearningQuests.github.io/images/1090.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "dino-slide",
+    "thumbnail": "https://LearningQuests.github.io/images/1091.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "maze-discover",
+    "thumbnail": "https://LearningQuests.github.io/images/1092.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sheep-saga",
+    "thumbnail": "https://LearningQuests.github.io/images/1093.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "find-it-out-colorful-book",
+    "thumbnail": "https://LearningQuests.github.io/images/1094.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cinema-panic-2",
+    "thumbnail": "https://LearningQuests.github.io/images/1095.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bomber-xxl",
+    "thumbnail": "https://LearningQuests.github.io/images/1096.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "rally-point-2",
+    "thumbnail": "https://LearningQuests.github.io/images/1097.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "spirit-guardians",
+    "thumbnail": "https://LearningQuests.github.io/images/1098.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "monkey-bubble-defense",
+    "thumbnail": "https://LearningQuests.github.io/images/1099.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "dashers-io-jwo",
+    "thumbnail": "https://LearningQuests.github.io/images/1100.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "magic-tri-peaks-solitaire",
+    "thumbnail": "https://LearningQuests.github.io/images/1101.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "doodle-rpg-survivor",
+    "thumbnail": "https://LearningQuests.github.io/images/1102.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bad-dolls",
+    "thumbnail": "https://LearningQuests.github.io/images/1103.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "clash-of-ages",
+    "thumbnail": "https://LearningQuests.github.io/images/1104.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "retro-garage---car-mechanic",
+    "thumbnail": "https://LearningQuests.github.io/images/1105.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mate-in-chess",
+    "thumbnail": "https://LearningQuests.github.io/images/1106.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "draw-to-smash-zombie",
+    "thumbnail": "https://LearningQuests.github.io/images/1107.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "slingshot-chicken",
+    "thumbnail": "https://LearningQuests.github.io/images/1108.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "monster-mixer-idle",
+    "thumbnail": "https://LearningQuests.github.io/images/1109.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "drift-zero",
+    "thumbnail": "https://LearningQuests.github.io/images/1110.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dice-fusion",
+    "thumbnail": "https://LearningQuests.github.io/images/1111.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "sliding-puzzle",
+    "thumbnail": "https://LearningQuests.github.io/images/1112.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "worms",
+    "thumbnail": "https://LearningQuests.github.io/images/1113.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "turbo-cars---pipe-stunts",
+    "thumbnail": "https://LearningQuests.github.io/images/1114.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pop-a-word",
+    "thumbnail": "https://LearningQuests.github.io/images/1115.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "gas-monsters",
+    "thumbnail": "https://LearningQuests.github.io/images/1116.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "shoot-your-nightmare-the-beginning",
+    "thumbnail": "https://LearningQuests.github.io/images/1117.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "angry-plants-flower",
+    "thumbnail": "https://LearningQuests.github.io/images/1118.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "brainrot-tower-defense",
+    "thumbnail": "https://LearningQuests.github.io/images/1119.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "road-master",
+    "thumbnail": "https://LearningQuests.github.io/images/1120.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "idle-baseball-tycoon",
+    "thumbnail": "https://LearningQuests.github.io/images/1121.webp",
+    "genre": "Sports, Simulation"
+  },
+  {
+    "id": "brain-puzzle-tricky-choices",
+    "thumbnail": "https://LearningQuests.github.io/images/1122.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "sneaky-friends",
+    "thumbnail": "https://LearningQuests.github.io/images/1123.webp",
+    "genre": ".IO, Casual"
+  },
+  {
+    "id": "endless-car-chase",
+    "thumbnail": "https://LearningQuests.github.io/images/1124.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "dream-pet-hotel",
+    "thumbnail": "https://LearningQuests.github.io/images/1125.webp",
+    "genre": "Mahjong & Connect"
+  },
+  {
+    "id": "street-ball-jam",
+    "thumbnail": "https://LearningQuests.github.io/images/1126.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "unpuzzle-master",
+    "thumbnail": "https://LearningQuests.github.io/images/1127.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "yummy-tales-4",
+    "thumbnail": "https://LearningQuests.github.io/images/1128.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "dogfight-ijs",
+    "thumbnail": "https://LearningQuests.github.io/images/1129.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "pubg-hack",
+    "thumbnail": "https://LearningQuests.github.io/images/1130.webp",
+    "genre": "Shooter, Strategy"
+  },
+  {
+    "id": "offroad-island",
+    "thumbnail": "https://LearningQuests.github.io/images/1131.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "run-now",
+    "thumbnail": "https://LearningQuests.github.io/images/1132.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "scoring-champion",
+    "thumbnail": "https://LearningQuests.github.io/images/1133.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "craft-3d",
+    "thumbnail": "https://LearningQuests.github.io/images/1134.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cyberpunk-corporation",
+    "thumbnail": "https://LearningQuests.github.io/images/1135.webp",
+    "genre": "Adventure, Shooter"
+  },
+  {
+    "id": "carnage-battle-arena",
+    "thumbnail": "https://LearningQuests.github.io/images/1136.webp",
+    "genre": "Racing & Driving, Agility"
+  },
+  {
+    "id": "save-the-worm-draw-puzzle",
+    "thumbnail": "https://LearningQuests.github.io/images/1137.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "taylor-dress-studio-preppy-wild-west-glam",
+    "thumbnail": "https://LearningQuests.github.io/images/1138.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "boom-vid",
+    "thumbnail": "https://LearningQuests.github.io/images/1139.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "scary-banban-escape",
+    "thumbnail": "https://LearningQuests.github.io/images/1140.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "elite-chess",
+    "thumbnail": "https://LearningQuests.github.io/images/1141.webp",
+    "genre": "Boardgames"
+  },
+  {
+    "id": "visual-memory-drag-drop",
+    "thumbnail": "https://LearningQuests.github.io/images/1142.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "shop-rush-3d",
+    "thumbnail": "https://LearningQuests.github.io/images/1143.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "love-in-style",
+    "thumbnail": "https://LearningQuests.github.io/images/1144.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "shoot-and-drive",
+    "thumbnail": "https://LearningQuests.github.io/images/1145.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "air-block",
+    "thumbnail": "https://LearningQuests.github.io/images/1146.webp",
+    "genre": "Puzzle, Agility"
+  },
+  {
+    "id": "woods-of-nevia-forest-survival",
+    "thumbnail": "https://LearningQuests.github.io/images/1147.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "vector-td",
+    "thumbnail": "https://LearningQuests.github.io/images/1148.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "drunk-but-not-wasted-knight",
+    "thumbnail": "https://LearningQuests.github.io/images/1149.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "riders-downhill-racing",
+    "thumbnail": "https://LearningQuests.github.io/images/1150.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "looping-monsters",
+    "thumbnail": "https://LearningQuests.github.io/images/1151.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ragdoll-throw-challenge",
+    "thumbnail": "https://LearningQuests.github.io/images/1152.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "robot-terminator-t-rex",
+    "thumbnail": "https://LearningQuests.github.io/images/1153.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "conq",
+    "thumbnail": "https://LearningQuests.github.io/images/1154.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "falling-ball",
+    "thumbnail": "https://LearningQuests.github.io/images/1155.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "whats-grandma-hiding",
+    "thumbnail": "https://LearningQuests.github.io/images/1156.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "wacky-strike",
+    "thumbnail": "https://LearningQuests.github.io/images/1157.webp",
+    "genre": "Strategy"
+  },
+  {
+    "id": "clash-crowd-game",
+    "thumbnail": "https://LearningQuests.github.io/images/1158.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "save-my-pet",
+    "thumbnail": "https://LearningQuests.github.io/images/1159.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cars-vs-skibidi-toilet",
+    "thumbnail": "https://LearningQuests.github.io/images/1160.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "prison-master-escape-journey",
+    "thumbnail": "https://LearningQuests.github.io/images/1161.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "xytrian-runner",
+    "thumbnail": "https://LearningQuests.github.io/images/1162.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "pyramid-solitaire-ancient-egypt",
+    "thumbnail": "https://LearningQuests.github.io/images/1163.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "battle-arena",
+    "thumbnail": "https://LearningQuests.github.io/images/1164.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "monster-school-challenge",
+    "thumbnail": "https://LearningQuests.github.io/images/1165.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "soccer-duel",
+    "thumbnail": "https://LearningQuests.github.io/images/1166.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-royal-rkw",
+    "thumbnail": "https://LearningQuests.github.io/images/1167.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "escape-from-baby-bobby-cxs",
+    "thumbnail": "https://LearningQuests.github.io/images/1168.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "snowball-skirmish",
+    "thumbnail": "https://LearningQuests.github.io/images/1169.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "formula-racers",
+    "thumbnail": "https://LearningQuests.github.io/images/1170.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "tile-match-the-immersive-puzzle",
+    "thumbnail": "https://LearningQuests.github.io/images/1171.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "riot-village",
+    "thumbnail": "https://LearningQuests.github.io/images/1172.webp",
+    "genre": "Shooter, Battle"
+  },
+  {
+    "id": "koko-loco-block-blast",
+    "thumbnail": "https://LearningQuests.github.io/images/1173.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "block-color-puzzle-blast",
+    "thumbnail": "https://LearningQuests.github.io/images/1174.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "drop-some-fruits-xvd",
+    "thumbnail": "https://LearningQuests.github.io/images/1175.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hex-sense",
+    "thumbnail": "https://LearningQuests.github.io/images/1176.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "ice-cube",
+    "thumbnail": "https://LearningQuests.github.io/images/1177.webp",
+    "genre": "Match-3, Merge"
+  },
+  {
+    "id": "pizza-puzzle",
+    "thumbnail": "https://LearningQuests.github.io/images/1178.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "obby-vs-zombies",
+    "thumbnail": "https://LearningQuests.github.io/images/1179.webp",
+    "genre": "Puzzle, Strategy"
+  },
+  {
+    "id": "sand-king",
+    "thumbnail": "https://LearningQuests.github.io/images/1180.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cute-animal-world",
+    "thumbnail": "https://LearningQuests.github.io/images/1181.webp",
+    "genre": "Art, Strategy"
+  },
+  {
+    "id": "kitty-scramble",
+    "thumbnail": "https://LearningQuests.github.io/images/1182.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bloomguard-oel",
+    "thumbnail": "https://LearningQuests.github.io/images/1183.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "space-craft-ship-war",
+    "thumbnail": "https://LearningQuests.github.io/images/1184.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "openguessr",
+    "thumbnail": "https://LearningQuests.github.io/images/1185.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bit-coin-clicker-yxi",
+    "thumbnail": "https://LearningQuests.github.io/images/1186.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mini-caps-soccer",
+    "thumbnail": "https://LearningQuests.github.io/images/1187.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "om-nom-bubbles",
+    "thumbnail": "https://LearningQuests.github.io/images/1188.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "blocky-demolition-derby",
+    "thumbnail": "https://LearningQuests.github.io/images/1189.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "sheep-sort-puzzle-sort-color",
+    "thumbnail": "https://LearningQuests.github.io/images/1190.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "perfect-tidy",
+    "thumbnail": "https://LearningQuests.github.io/images/1191.webp",
+    "genre": "Simulation"
+  },
+  {
+    "id": "sushi-break-dash",
+    "thumbnail": "https://LearningQuests.github.io/images/1192.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "star-exiles-luw",
+    "thumbnail": "https://LearningQuests.github.io/images/1193.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "seat-jam-3d",
+    "thumbnail": "https://LearningQuests.github.io/images/1194.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "blast-miner",
+    "thumbnail": "https://LearningQuests.github.io/images/1195.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "killer-escape-huggy-extreme",
+    "thumbnail": "https://LearningQuests.github.io/images/1196.webp",
+    "genre": "Battle"
+  },
+  {
+    "id": "swat-force-vs-terrorists",
+    "thumbnail": "https://LearningQuests.github.io/images/1197.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "hoop-world-3d",
+    "thumbnail": "https://LearningQuests.github.io/images/1198.webp",
+    "genre": "Basketball"
+  },
+  {
+    "id": "tankflow-io-ujm",
+    "thumbnail": "https://LearningQuests.github.io/images/1199.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "egg-adventure",
+    "thumbnail": "https://LearningQuests.github.io/images/1200.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "valentines-makeup-trends",
+    "thumbnail": "https://LearningQuests.github.io/images/1201.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "labuba-merge",
+    "thumbnail": "https://LearningQuests.github.io/images/1202.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "zooma-marble-quest-3d",
+    "thumbnail": "https://LearningQuests.github.io/images/1203.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "snakemaxx",
+    "thumbnail": "https://LearningQuests.github.io/images/1204.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "nimrods-guncraft-survivor---demo",
+    "thumbnail": "https://LearningQuests.github.io/images/1205.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "daily-kitchen-escape",
+    "thumbnail": "https://LearningQuests.github.io/images/1206.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "italian-brainrot-puzzle-battle",
+    "thumbnail": "https://LearningQuests.github.io/images/1207.webp",
+    "genre": "Puzzle, Battle"
+  },
+  {
+    "id": "elemental-monsters-merge-evolution",
+    "thumbnail": "https://LearningQuests.github.io/images/1208.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "seek-find-hidden-object-game",
+    "thumbnail": "https://LearningQuests.github.io/images/1209.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "giant-sushi",
+    "thumbnail": "https://LearningQuests.github.io/images/1210.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "ragdoll-jump",
+    "thumbnail": "https://LearningQuests.github.io/images/1211.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "bank-robbery-3",
+    "thumbnail": "https://LearningQuests.github.io/images/1212.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "kingdom-cats",
+    "thumbnail": "https://LearningQuests.github.io/images/1213.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "fruit-jam-master",
+    "thumbnail": "https://LearningQuests.github.io/images/1214.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "when-civilians-dig-holes",
+    "thumbnail": "https://LearningQuests.github.io/images/1215.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "save-the-hostages",
+    "thumbnail": "https://LearningQuests.github.io/images/1216.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mermaid-princess-avater-castle",
+    "thumbnail": "https://LearningQuests.github.io/images/1217.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "jewel-dress-up",
+    "thumbnail": "https://LearningQuests.github.io/images/1218.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "idle-reincarnator",
+    "thumbnail": "https://LearningQuests.github.io/images/1219.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stack-n-sort",
+    "thumbnail": "https://LearningQuests.github.io/images/1220.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "music-tiles-fluffy-hop-beat",
+    "thumbnail": "https://LearningQuests.github.io/images/1221.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "code-runner-binary-confusion",
+    "thumbnail": "https://LearningQuests.github.io/images/1222.webp",
+    "genre": "Puzzle, Educational"
+  },
+  {
+    "id": "portals",
+    "thumbnail": "https://LearningQuests.github.io/images/1223.webp",
+    "genre": "Adventure, Puzzle"
+  },
+  {
+    "id": "ellie-chinese-new-year-celebration",
+    "thumbnail": "https://LearningQuests.github.io/images/1224.webp",
+    "genre": "Dress-up"
+  },
+  {
+    "id": "interior-designer-unpacking-house",
+    "thumbnail": "https://LearningQuests.github.io/images/1225.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "omg-word-rainbow",
+    "thumbnail": "https://LearningQuests.github.io/images/1226.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "cityquest",
+    "thumbnail": "https://LearningQuests.github.io/images/1227.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "pet-clicker",
+    "thumbnail": "https://LearningQuests.github.io/images/1228.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "stickman-jailbreak-story",
+    "thumbnail": "https://LearningQuests.github.io/images/1229.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "skibidi-online",
+    "thumbnail": "https://LearningQuests.github.io/images/1230.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "i-am-prankster-taxi-driver",
+    "thumbnail": "https://LearningQuests.github.io/images/1231.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "car-clash-2",
+    "thumbnail": "https://LearningQuests.github.io/images/1232.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "cg-fc-24",
+    "thumbnail": "https://LearningQuests.github.io/images/1233.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "mustang-city-driver",
+    "thumbnail": "https://LearningQuests.github.io/images/1234.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "fireman-2024",
+    "thumbnail": "https://LearningQuests.github.io/images/1235.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "wood-nuts-master-screw-puzzle",
+    "thumbnail": "https://LearningQuests.github.io/images/1236.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "telekinesis-attack",
+    "thumbnail": "https://LearningQuests.github.io/images/1237.webp",
+    "genre": "Shooter, Casual"
+  },
+  {
+    "id": "fox-coin-match",
+    "thumbnail": "https://LearningQuests.github.io/images/1238.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "nesting-dolls",
+    "thumbnail": "https://LearningQuests.github.io/images/1239.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "supertrip-land",
+    "thumbnail": "https://LearningQuests.github.io/images/1240.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hole-and-fill-collect-master",
+    "thumbnail": "https://LearningQuests.github.io/images/1241.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "doge-miner",
+    "thumbnail": "https://LearningQuests.github.io/images/1242.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "hoop-world-3d",
+    "thumbnail": "https://LearningQuests.github.io/images/1243.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bubble-shooter-free-3",
+    "thumbnail": "https://LearningQuests.github.io/images/1244.webp",
+    "genre": "Puzzle, Bubble Shooter"
+  },
+  {
+    "id": "stickman-prison-and-love",
+    "thumbnail": "https://LearningQuests.github.io/images/1245.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "tower-wars-arena",
+    "thumbnail": "https://LearningQuests.github.io/images/1246.webp",
+    "genre": "Casual, Strategy"
+  },
+  {
+    "id": "rcc-city-racing",
+    "thumbnail": "https://LearningQuests.github.io/images/1247.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "super-brain",
+    "thumbnail": "https://LearningQuests.github.io/images/1248.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "sushi-factory",
+    "thumbnail": "https://LearningQuests.github.io/images/1249.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "water-junk-warriors",
+    "thumbnail": "https://LearningQuests.github.io/images/1250.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "cozy-garden-idle",
+    "thumbnail": "https://LearningQuests.github.io/images/1251.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "telekinesis-race-3d",
+    "thumbnail": "https://LearningQuests.github.io/images/1252.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "slap-castle",
+    "thumbnail": "https://LearningQuests.github.io/images/1253.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "wolf-family-simulator",
+    "thumbnail": "https://LearningQuests.github.io/images/1254.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "organize-it",
+    "thumbnail": "https://LearningQuests.github.io/images/1255.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "blocksss",
+    "thumbnail": "https://LearningQuests.github.io/images/1256.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "block-cut-cleaner",
+    "thumbnail": "https://LearningQuests.github.io/images/1257.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "planet-hopper",
+    "thumbnail": "https://LearningQuests.github.io/images/1258.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "gun-clone",
+    "thumbnail": "https://LearningQuests.github.io/images/1259.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "bricks-breaker",
+    "thumbnail": "https://LearningQuests.github.io/images/1260.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "space-blast",
+    "thumbnail": "https://LearningQuests.github.io/images/1261.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "find-it-hidden-object-puzzle",
+    "thumbnail": "https://LearningQuests.github.io/images/1262.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "magic-merge-tower-defense-3d",
+    "thumbnail": "https://LearningQuests.github.io/images/1263.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "forest-spirit-farm-fight",
+    "thumbnail": "https://LearningQuests.github.io/images/1264.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "word-sauce",
+    "thumbnail": "https://LearningQuests.github.io/images/1265.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "solitaire-klondike-eternal-russian-classic",
+    "thumbnail": "https://LearningQuests.github.io/images/1266.webp",
+    "genre": "Cards"
+  },
+  {
+    "id": "master-of-numbers-qmz",
+    "thumbnail": "https://LearningQuests.github.io/images/1267.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "candy-color-sort-puzzle",
+    "thumbnail": "https://LearningQuests.github.io/images/1268.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "drill-quest",
+    "thumbnail": "https://LearningQuests.github.io/images/1269.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "candy-smash",
+    "thumbnail": "https://LearningQuests.github.io/images/1270.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "heroes-vs-monsters-idle-rpg",
+    "thumbnail": "https://LearningQuests.github.io/images/1271.webp",
+    "genre": "Incremental, Mobile2,396, Premium Perks85, Monster215, 2D1,175"
+  },
+  {
+    "id": "my-castle-merge-story",
+    "thumbnail": "https://LearningQuests.github.io/images/1272.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "void-orbit",
+    "thumbnail": "https://LearningQuests.github.io/images/1273.webp",
+    "genre": "Agility, Casual"
+  },
+  {
+    "id": "empire-clicker",
+    "thumbnail": "https://LearningQuests.github.io/images/1274.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "tabletop-idle",
+    "thumbnail": "https://LearningQuests.github.io/images/1275.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "bloons-player-pack-2",
+    "thumbnail": "https://LearningQuests.github.io/images/1276.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "western-sniper-ygk",
+    "thumbnail": "https://LearningQuests.github.io/images/1277.webp",
+    "genre": "Sniper, Sniper19, Mobile2,396, 3D1,438, 1 Player146"
+  },
+  {
+    "id": "police-station",
+    "thumbnail": "https://LearningQuests.github.io/images/1278.webp",
+    "genre": "Casual, Simulation"
+  },
+  {
+    "id": "cat-bakery",
+    "thumbnail": "https://LearningQuests.github.io/images/1279.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "zindex",
+    "thumbnail": "https://LearningQuests.github.io/images/1280.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "obby-massive-attack",
+    "thumbnail": "https://LearningQuests.github.io/images/1281.webp",
+    "genre": "Adventure, Agility"
+  },
+  {
+    "id": "hexagon",
+    "thumbnail": "https://LearningQuests.github.io/images/1282.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "beach-soccer",
+    "thumbnail": "https://LearningQuests.github.io/images/1283.webp",
+    "genre": "Sports, Casual"
+  },
+  {
+    "id": "color-it-in-3d",
+    "thumbnail": "https://LearningQuests.github.io/images/1284.webp",
+    "genre": "Art, Casual"
+  },
+  {
+    "id": "upside-down",
+    "thumbnail": "https://LearningQuests.github.io/images/1285.webp",
+    "genre": "Puzzle"
+  },
+  {
+    "id": "grandmas-last-stand",
+    "thumbnail": "https://LearningQuests.github.io/images/1286.webp",
+    "genre": "Shooter"
+  },
+  {
+    "id": "backpack-battles",
+    "thumbnail": "https://LearningQuests.github.io/images/1287.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "noob-trolls-pro",
+    "thumbnail": "https://LearningQuests.github.io/images/1288.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "max-speed",
+    "thumbnail": "https://LearningQuests.github.io/images/1289.webp",
+    "genre": "Racing & Driving"
+  },
+  {
+    "id": "idle-legend",
+    "thumbnail": "https://LearningQuests.github.io/images/1290.webp",
+    "genre": "Adventure"
+  },
+  {
+    "id": "gunblood",
+    "thumbnail": "https://LearningQuests.github.io/images/1291.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "happy-jump",
+    "thumbnail": "https://LearningQuests.github.io/images/1292.webp",
+    "genre": "Casual"
+  },
+  {
+    "id": "100-doors-challenge",
+    "thumbnail": "https://LearningQuests.github.io/images/1293.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "shoot-block-rush-3d",
+    "thumbnail": "https://LearningQuests.github.io/images/1294.webp",
+    "genre": "Shooter, Agility"
+  },
+  {
+    "id": "ludo-star",
+    "thumbnail": "https://LearningQuests.github.io/images/1295.webp",
+    "genre": "Boardgames, Casual"
+  },
+  {
+    "id": "spelunking",
+    "thumbnail": "https://LearningQuests.github.io/images/1296.webp",
+    "genre": "Match-3"
+  },
+  {
+    "id": "brat-girl-summer",
+    "thumbnail": "https://LearningQuests.github.io/images/1297.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  },
+  {
+    "id": "merge-balls-shooter-2048-connect-fruits",
+    "thumbnail": "https://LearningQuests.github.io/images/1298.webp",
+    "genre": "Puzzle, Casual"
+  },
+  {
+    "id": "archers-random",
+    "thumbnail": "https://LearningQuests.github.io/images/1299.webp",
+    "genre": "Basketball, Bike, Car, Casual, Controller"
+  }
+]
